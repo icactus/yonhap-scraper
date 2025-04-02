@@ -1,0 +1,26 @@
+{
+  "name": "yonhap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "start": "node server.js",
+  "export": "node server.js --export",
+  "deploy": "gh-pages -d public"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.8.4",
+    "bottleneck": "^2.19.5",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.5.0",
+    "xml2js": "^0.6.2"
+  }
+}
