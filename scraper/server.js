@@ -11,11 +11,11 @@ const app = express();
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 // Set up public directory
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '..', 'public')));
 
 // Main route
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+  res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
 });
 
 // API endpoint
@@ -227,7 +227,7 @@ Text:
 
 // Static file generator
 async function exportStaticFiles(articles) {
-  const publicDir = path.join(__dirname, 'public');
+  const publicDir = path.join(__dirname, '..', 'public');
   if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir);
   
   // Save JSON data
