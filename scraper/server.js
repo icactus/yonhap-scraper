@@ -45,7 +45,7 @@ app.get('/export', async (req, res) => {
 });
 
 // Core processing function
-async function processArticles(limit = 2) {
+async function processArticles(limit = 20) {
   console.time('Article processing');
   
   console.log('Fetching RSS feed...');
