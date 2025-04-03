@@ -27,7 +27,7 @@ jobs:
     
     - name: Install Node.js dependencies
       run: |
-        cd yonhap/scraper
+        cd scraper
         npm ci
     
     - name: Generate static files
