@@ -34,7 +34,7 @@ jobs:
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        cd yonhap/scraper
+        cd scraper
         node server.js --export
     
     - name: Deploy to GitHub Pages
