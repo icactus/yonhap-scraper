@@ -5,7 +5,10 @@ on:
     branches: [ main ]
   schedule:
     - cron: '0 */12 * * *'  # Every 12 hours (00:00 and 12:00 UTC)
-  workflow_dispatch:  # Manual trigger option
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Grant write access to push to gh-pages
 
 jobs:
   build-and-deploy:
@@ -42,3 +45,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+        publish_branch: gh-pages
