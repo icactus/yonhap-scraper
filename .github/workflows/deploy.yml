@@ -23,12 +23,12 @@ jobs:
     - name: Install system dependencies for Puppeteer
       run: |
         sudo apt-get update
-        sudo apt-get install -y libxss1 libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libgbm1 libasound2 libpangocairo-1.0-0 libx11-xcb1
+        sudo apt-get install -y libxss1 libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libgbm1 libasound2t64 libpangocairo-1.0-0 libx11-xcb1
     
     - name: Install Node.js dependencies
       run: |
         cd yonhap/scraper
-        npm ci  # Use npm ci for consistent installs (requires package-lock.json)
+        npm ci
     
     - name: Generate static files
       env:
