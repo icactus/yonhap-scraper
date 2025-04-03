@@ -45,7 +45,7 @@ app.get('/export', async (req, res) => {
 });
 
 // Core processing function
-async function processArticles(limit = 20) {
+async function processArticles(limit = 2) {
   console.time('Article processing');
   
   console.log('Fetching RSS feed...');
@@ -301,9 +301,22 @@ async function exportStaticFiles(articles) {
   fs.writeFileSync(path.join(publicDir, 'index.html'), html);
 }
 
-// Start server
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
-  console.log(`Access /export to generate static files`);
-});
+if (process.argv.includes('--export')) {
+  (async () => {
+    try {
+      const articles = await processArticles();
+      await exportStaticFiles(articles);
+      console.log('Static files generated in /public');
+      process.exit(0);
+    } catch (error) {
+      console.error('Export failed:', error);
+      process.exit(1);
+    }
+  })();
+} else {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
+    console.log(`Server running on http://localhost:${PORT}`);
+    console.log(`Access /export to generate static files`);
+  });
+}

@@ -1,9 +1,11 @@
-name: Deploy to GitHub Pages
+name: Generate and Deploy to GitHub Pages
 
 on:
   push:
     branches: [ main ]
-  workflow_dispatch:  # Allows manual triggers
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours (00:00 and 12:00 UTC)
+  workflow_dispatch:  # Manual trigger option
 
 jobs:
   build-and-deploy:
@@ -18,18 +20,25 @@ jobs:
       with:
         node-version: '20'
     
-    - name: Install dependencies
+    - name: Install system dependencies for Puppeteer
       run: |
-        cd scraper
-        npm install
+        sudo apt-get update
+        sudo apt-get install -y libxss1 libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libgbm1 libasound2 libpangocairo-1.0-0 libx11-xcb1
     
-    - name: Run scraper
+    - name: Install Node.js dependencies
       run: |
-        cd scraper
+        cd yonhap/scraper
+        npm ci  # Use npm ci for consistent installs (requires package-lock.json)
+    
+    - name: Generate static files
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        cd yonhap/scraper
         node server.js --export
-        
+    
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        publish_dir: ./yonhap/public
