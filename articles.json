@@ -1,11 +1,66 @@
 {
   "articles": [
     {
-      "originalTitle": "[북한단신] 김정은 작년 업적 담은 중앙사진전람회 개막",
-      "translatedTitle": "[North Korean Bulletin] Central Photo Exhibition Opens Featuring Kim Jong-un's Achievements Last Year",
+      "originalTitle": "북한도 연일 '산불조심' 강조…\"경중따지면 돌이킬수 없는 후과\"",
+      "translatedTitle": "North Korea also emphasizes 'forest fire prevention' every day... 'Irreversible consequences if importance is judged'",
       "summary": {
-        "quote": "Kim Jong-un's achievements in 2024 were displayed at the Central Photo Exhibition, which opened on the 3rd at the People's Palace of Culture, according to the Korean Central News Agency on the 4th.",
-        "text": "This article briefly reports on the opening of a photo exhibition highlighting Kim Jong-un's accomplishments in 2024, alongside other minor events like a shoe exhibition, a wrestling tournament return, a delegation trip to Uzbekistan, and a culinary festival celebrating Kim Il-sung's birthday. The focus on Kim Jong-un's achievements could offer insights into the regime's propaganda efforts and priorities. Considering the range of events covered, it provides a small window into cultural and diplomatic activities within North Korea and the regime's focus on domestic presentation of its leadership.",
+        "quote": "Forest fire prevention is a task that requires special attention in constantly accumulating and actively caring for the country's wealth",
+        "text": "This article highlights North Korea's increased emphasis on preventing forest fires, especially during the spring season. It reveals concerns about negligence and lack of responsibility among officials, warning of severe consequences if fire prevention is not prioritized. The article also mentions North Korea's coverage of forest fires in South Korea, possibly to raise awareness and emphasize the need for prevention. This signals the DPRK state's focus on natural disaster prevention and the challenges that they encounter with limited resources and climate change.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250403173500504",
+      "date": "Sat, 5 Apr 2025 07:13:00 +0900"
+    },
+    {
+      "originalTitle": "[북한날씨] 대체로 흐리고 평안도·함경도·황해도에 비",
+      "translatedTitle": "[North Korean Weather] Mostly Cloudy with Rain in Pyongan, Hamgyong, and Hwanghae Provinces",
+      "summary": {
+        "quote": "North Korea will be mostly cloudy on the 5th, with rain in Pyongan, Hamgyong, and Hwanghae Provinces.",
+        "text": "This article provides a basic weather forecast for North Korea, indicating cloudy conditions and expected rainfall in several provinces. While seemingly mundane, weather patterns are crucial for understanding agricultural conditions and potential impacts on food security in North Korea. Pay attention to how weather impacts resource allocation in the DPRK, especially if climate change gets worse.",
+        "interestLevel": "⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250405012200504",
+      "date": "Sat, 5 Apr 2025 06:52:16 +0900"
+    },
+    {
+      "originalTitle": "[尹파면] 북한, 하루지나 논평 없이 간략 보도…\"재판관 전원일치\"",
+      "translatedTitle": "[Yoon's Impeachment] North Korea Reports Briefly Without Commentary a Day Later... 'Unanimous Decision of All Judges'",
+      "summary": {
+        "quote": "In South Korea, on April 4, the Constitutional Court sentenced Yoon Suk-yeol to impeachment.",
+        "text": "This article reports on North Korea's delayed and minimal coverage of Yoon Suk-yeol's impeachment. The muted response, compared to the swift reporting of Park Geun-hye's impeachment, suggests a deliberate distancing from South Korean affairs given the declared 'hostile two-state relationship'. The DPRK media mentions foreign press coverage as well, potentially signaling the Kim regime's interest in international perceptions of the event. This distance should be noted in context of North Korea's increasingly hostile position.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250405012000504",
+      "date": "Sat, 5 Apr 2025 06:48:36 +0900"
+    },
+    {
+      "originalTitle": "김정은, 尹파면된 날 특수부대 훈련시찰…\"싸움준비완성이 애국\"",
+      "translatedTitle": "Kim Jong-un Inspects Special Forces Training on the Day of Yoon's Impeachment... 'Completing Combat Readiness is Patriotism'",
+      "summary": {
+        "quote": "Completing combat readiness is the highest patriotism and loyalty to the state and the people",
+        "text": "This article details Kim Jong-un's inspection of special operations forces training on the same day as Yoon Suk-yeol's impeachment, emphasizing combat readiness and ideological armament. This timing suggests a calculated message of strength and preparedness, potentially directed both internally and externally, emphasizing military development. Of particular interest are the statements on new tactical methods and Kim Jong-un's direct involvement in weapons testing, which could indicate evolving military strategies.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250405011600504",
+      "date": "Sat, 5 Apr 2025 06:37:32 +0900"
+    },
+    {
+      "originalTitle": "[尹파면] 북, 아직 무반응…박근혜 때는 2시간여만에 신속 보도",
+      "translatedTitle": "[Yoon's Impeachment] North Korea Still No Reaction...Park Geun-hye Quickly Reported in About 2 Hours",
+      "summary": {
+        "quote": "North Korea has not reported any news regarding the Constitutional Court's decision to impeach former President Yoon Suk-yeol as of the night of the 4th.",
+        "text": "This article emphasizes North Korea's initial silence regarding Yoon Suk-yeol's impeachment, contrasting it with the rapid reporting of Park Geun-hye's case. This delayed response further underscores the deliberate distancing and potential indifference toward South Korean political developments, given the declared 'hostile two-state relationship'. Analyzing the timing and content of subsequent North Korean reports, if any, will be crucial for understanding their perspective.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250404170100504",
+      "date": "Fri, 4 Apr 2025 21:43:54 +0900"
+    },
+    {
+      "originalTitle": "[북한단신] 김정은 작년 업적 담은 중앙사진전람회 개막",
+      "translatedTitle": "[North Korea Bulletin] Kim Jong-un Central Photo Exhibition on Last Year's Achievements Opens",
+      "summary": {
+        "quote": "A central photo exhibition showing the achievements made by State Affairs Commission Chairman Kim Jong-un in 2024 opened at the People's Palace of Culture on the 3rd.",
+        "text": "This article is a compilation of short news items from North Korea, including the opening of a photo exhibition showcasing Kim Jong-un's achievements. While seemingly trivial, these bulletins provide insight into domestic priorities and propaganda efforts within North Korea. The success of the wrestling team is interesting, given the DPRK focus on sports. Also take note of international delegates and their travel.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404147800504",
@@ -13,21 +68,21 @@
     },
     {
       "originalTitle": "[尹파면] 통일부 \"北동향 주시…한반도 상황 안정적 관리에 만전\"",
-      "translatedTitle": "[Yoon Impeachment] Ministry of Unification: 'Closely Monitoring North Korean Movements…Making Every Effort to Manage the Korean Peninsula Situation Stably'",
+      "translatedTitle": "[Yoon's Impeachment] Ministry of Unification \"Monitoring North Korea's Movements… Doing Our Best to Manage the Korean Peninsula Situation Stably\"",
       "summary": {
-        "quote": "The Ministry of Unification stated that it will 'closely monitor North Korean movements and make every effort to manage the Korean Peninsula situation stably.'",
-        "text": "Following the Constitutional Court's decision regarding President Yoon's impeachment, the Ministry of Unification convened an emergency meeting to discuss its future policy direction. The ministry emphasized the need to closely monitor North Korean activities and maintain stability on the Korean Peninsula and ensure policy continuity amidst the change in leadership. For an expert on Cold War era conflict dynamics in the region, this statement is a signal of a potential shift in inter-Korean relations.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "The Ministry of Unification will closely monitor North Korea's movements and do its best to manage the situation on the Korean Peninsula in a stable manner.",
+        "text": "This article reports on the South Korean Ministry of Unification's response to Yoon Suk-yeol's impeachment, emphasizing the need for stability and continued execution of unification policies. While focused on the South Korean perspective, it provides context for understanding potential shifts in inter-Korean relations following the impeachment. It will be interesting to see how well unification policies work.",
+        "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404137400504",
       "date": "Fri, 4 Apr 2025 16:28:29 +0900"
     },
     {
       "originalTitle": "성남시 탈북자출신 공무원, 산불피해 주민에 첫 월급 기부",
-      "translatedTitle": "North Korean Defector-Turned-Public Official in Seongnam City Donates First Salary to Wildfire Victims",
+      "translatedTitle": "Public Official from Seongnam City with North Korean Defector Background Donates First Salary to Wildfire Victims",
       "summary": {
-        "quote": "As a North Korean defector-turned-public official who is well-settled in South Korea, I wanted to offer some help, so I donated my first salary.",
-        "text": "This article reports on a North Korean defector who, after settling in South Korea, became a public official and donated her first entire month's salary to wildfire victims in South Korea. The article touches on a success story of defector resettlement and integration but also provides an interesting commentary on how defectors may perceive their roles in South Korean society and their connection to its welfare. It hints at potentially shifting social dynamics, where defectors see themselves as contributing members of the larger society.",
+        "quote": "As a public official from North Korea who has settled well in Korea, I donated my first salary because I wanted to help.",
+        "text": "This article highlights a heartwarming story of a North Korean defector working as a public official in South Korea who donated their first salary to wildfire victims. This act of generosity and integration serves as a counter-narrative to the often-negative portrayal of North Korean defectors and demonstrates successful integration into South Korean society. Keep an eye on other defectors successes in SK, given that NK state claims many defectors are struggling or being mistreated.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404113300061",
@@ -35,22 +90,22 @@
     },
     {
       "originalTitle": "[尹파면] '대북강경' 尹파면에도 남북해빙은 난망…북미협상은 변수",
-      "translatedTitle": "[Yoon Impeachment] Even with the Impeachment of Hardliner Yoon, a Thaw in Inter-Korean Relations is Unlikely…North Korea-U.S. Negotiations are a Variable",
+      "translatedTitle": "[Yoon's Impeachment] Even with the Impeachment of 'Hardline on North Korea' Yoon, Inter-Korean Thawing is Unlikely... US-North Korea Negotiations are a Variable",
       "summary": {
-        "quote": "North Korea is likely to focus on strengthening its nuclear capabilities for direct negotiations with the United States, regardless of the South Korean government's North Korea policy direction.",
-        "text": "Despite the impeachment of Yoon Suk-yeol, known for his hawkish stance on North Korea, a significant shift in inter-Korean relations is unlikely. The article highlights the deep freeze between the two Koreas, initiated even before Yoon's presidency, and suggests that North Korea prioritizes direct engagement with the U.S. over improving ties with the South. It also notes that North Korea views the relationship with the South as one between 'two hostile countries' and underscores the importance of possible North Korea-U.S. talks as a variable in the situation.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
+        "quote": "Regardless of the direction of the South Korean government's North Korea policy, North Korea is expected to focus on strengthening its nuclear arsenal for a deal with the United States.",
+        "text": "This analysis explores the potential impact of Yoon Suk-yeol's impeachment on inter-Korean relations. The article argues that despite Yoon's hardline stance, a significant improvement in relations is unlikely due to North Korea's existing hostility and focus on direct negotiations with the United States. This highlights the limitations of South Korean policy in influencing North Korea's actions, especially in the context of US-North Korea dynamics. Be sure to note if the DPRK is continuing to sideline SK while maintaining US ties.",
+        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404086300504",
       "date": "Fri, 4 Apr 2025 14:52:39 +0900"
     },
     {
       "originalTitle": "미국인 4명 중 1명 \"北 남침시 미국 아무것도 안 할 것\"",
-      "translatedTitle": "1 in 4 Americans Believe the U.S. Would Do Nothing if North Korea Invades South Korea",
+      "translatedTitle": "1 in 4 Americans Say 'US Will Do Nothing' if North Korea Invades South Korea",
       "summary": {
-        "quote": "Americans are more likely to believe the U.S. would do nothing if North Korea invaded South Korea, while South Koreans are more confident in U.S. intervention, potentially leading to future strains in the alliance.",
-        "text": "A recent survey reveals a significant divergence in perceptions between Americans and South Koreans regarding potential U.S. intervention in the event of a North Korean invasion. A substantial portion of Americans believe the U.S. would not intervene, while South Koreans are far more confident in U.S. support, including potential nuclear deployment. This divergence in perception highlights the risk of over-reliance on the US and a future strain on the US-Korean relationship. The data hints at different expectations and understanding of the security alliance between the two countries.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "One in four Americans think the US will do nothing if North Korea invades South Korea, while only one in 14 Koreans think so.",
+        "text": "This article presents the findings of a survey comparing American and South Korean perceptions of US intervention in the event of a North Korean invasion. The disparity in expectations regarding US involvement highlights potential strains in the US-South Korea alliance and the need for clearer communication and reassurance. Note the relatively high support for using nuclear weapons in both countries, reflecting a perceived existential threat and the potential for escalation.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404068900009",
       "date": "Fri, 4 Apr 2025 11:35:37 +0900"
@@ -59,41 +114,41 @@
       "originalTitle": "통일부 \"UN인권이사회 북한 인권결의 채택 환영\"",
       "translatedTitle": "Ministry of Unification Welcomes UN Human Rights Council's Adoption of Resolution on North Korean Human Rights",
       "summary": {
-        "quote": "The government is deeply concerned about the ongoing systematic, widespread, and serious human rights violations within North Korea.",
-        "text": "The Ministry of Unification welcomes the UN Human Rights Council's adoption of a resolution condemning human rights abuses in North Korea. The resolution addresses concerns about the ongoing systematic and severe human rights violations, including the treatment of defectors, forced labor, and the situation of detained South Korean citizens. For someone studying the interlinked themes of human rights and forced migration in the Cold War it is a good reminder of these recurring themes on the Korean peninsula.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "The government expresses deep concern that systematic, widespread, and serious human rights violations continue to occur in North Korea.",
+        "text": "This article reports on the South Korean Ministry of Unification's welcoming of the UN Human Rights Council's adoption of a resolution on North Korean human rights. The resolution's condemnation of human rights abuses, including forced labor and the situation of detainees, reinforces the international pressure on North Korea. Highlighted is the issue of South Korean nationals detained in North Korea, underscoring the ongoing humanitarian concerns. What is the international community doing to encourage the DPRK to address human rights?",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404060600504",
       "date": "Fri, 4 Apr 2025 11:30:22 +0900"
     },
     {
       "originalTitle": "\"北은 경계·적대 대상\" 63%, \"협력·도움 대상\" 34%…학생 설문",
-      "translatedTitle": "63% of Students View North Korea as an Object of 'Caution and Hostility,' 34% as an Object of 'Cooperation and Aid'...Student Survey",
+      "translatedTitle": "63% of Students Say 'North is Subject of Vigilance and Hostility', 34% 'Subject of Cooperation and Assistance'... Student Survey",
       "summary": {
-        "quote": "The survey reveals a drastic shift in students' perceptions of North Korea, with a significant majority viewing it with caution and hostility compared to previous years.",
-        "text": "A survey of South Korean students reveals a dramatic shift in their perception of North Korea. The majority now view the North as an object of caution and hostility, a stark contrast to previous surveys where cooperation and aid were more prevalent sentiments. This shift reflects the deterioration of inter-Korean relations and declining support for unification. The dramatic shift in views over a short amount of time hints at strong governmental influence in education, particularly in shaping young people's views of North Korea.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
+        "quote": "48.2% of elementary, middle, and high school students perceive North Korea as an object to be wary of.",
+        "text": "This article reveals a significant shift in South Korean students' perceptions of North Korea, with a majority viewing it as an object of vigilance or hostility. The sharp decline in support for unification and increased disinterest in the issue reflect the growing disconnect between younger generations and the traditional unification narrative. This raises concerns about the long-term prospects for inter-Korean reconciliation and the need for renewed efforts to promote understanding and engagement. Also take note on how this may reflect attitudes towards women.",
+        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250403149300504",
       "date": "Fri, 4 Apr 2025 10:00:01 +0900"
     },
     {
       "originalTitle": "북, 내각회의 열고 1분기 경제 상황 평가…\"자랑찬 성과 이룩\"",
-      "translatedTitle": "North Korea Holds Cabinet Meeting to Evaluate First Quarter Economic Situation...Achieved 'Proud Successes'",
+      "translatedTitle": "North Korea Holds Cabinet Meeting, Evaluates First Quarter Economic Situation... 'Achieved Proud Results'",
       "summary": {
-        "quote": "The 'Local Development 20x10 Policy' has energetically sounded the first birth cries, and proud successes have been achieved in the first quarter implementation of the People's Economy Plan.",
-        "text": "North Korea held a cabinet meeting to assess the progress of its economic plans for the first quarter, including the 'Local Development 20x10 Policy'. Despite acknowledging some shortcomings, officials claimed 'proud successes' in the implementation of economic plans. The meeting also covered agricultural preparations and social policy execution, including childcare initiatives. It is a reflection of internal management under Kim Jong Un and the local success of his economic policies.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "The first fruits of the local development 20x10 policy resounded with the sound of production normalization",
+        "text": "This article reports on a North Korean cabinet meeting focused on evaluating the first quarter's economic performance. While the report claims 'proud results', it also acknowledges 'shortcomings and biases', suggesting underlying challenges. The emphasis on the 'local development 20x10 policy' and criticism of 'passive and self-preserving' attitudes among officials indicate ongoing efforts to decentralize economic activity and combat bureaucratic inertia. Watch out for details on where the government acknowledges failures and how it intends to address those.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404016000504",
       "date": "Fri, 4 Apr 2025 07:28:02 +0900"
     },
     {
       "originalTitle": "[북한날씨] 전 지역 구름 많아…\"평양 낮 최고 18도\"",
-      "translatedTitle": "[North Korean Weather] Mostly Cloudy Across All Regions...\"High of 18 Degrees Celsius in Pyongyang\"",
+      "translatedTitle": "[North Korean Weather] Mostly Cloudy Across All Regions... \"High of 18 Degrees in Pyongyang During the Day\"",
       "summary": {
-        "quote": "The weather forecast for North Korea indicates mostly cloudy conditions across all regions, with potential rain or snow in some areas.",
-        "text": "This article provides a brief weather forecast for North Korea, predicting mostly cloudy conditions and potential precipitation in certain regions. While seemingly trivial, weather patterns can significantly impact agricultural production and overall economic stability in North Korea. Moreover, the very existence of such a report suggests a state-controlled media landscape focused on disseminating even mundane information.",
+        "quote": "North Korea will be partly cloudy in all areas on the 4th, with rain or snow in Pyongan and Hwanghae provinces from the evening.",
+        "text": "This article provides a routine weather forecast for North Korea. While seemingly insignificant, changes in weather patterns may affect agriculture, including the health of crops. Note any potential impacts on food security in North Korea and resulting gendered consequences of the food system, particularly if there are floods, droughts, or typhoons.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404016400504",
@@ -101,21 +156,21 @@
     },
     {
       "originalTitle": "김정은, 준공앞둔 화성3단계 편의시설 시찰…\"새 봉사분야 개척\"",
-      "translatedTitle": "Kim Jong-un Inspects Convenience Facilities in Hwaseong 3rd Stage Nearing Completion...\"Pioneering New Service Sectors\"",
+      "translatedTitle": "Kim Jong-un Inspects Convenience Facilities in Hwaseong Phase 3 Ahead of Completion... 'Pioneering New Service Areas'",
       "summary": {
-        "quote": "Constantly pioneering and expanding new service sectors in new forms and methods occupies an important place in realizing our Party's policy to dramatically improve the material and cultural welfare of the capital's citizens and the people across the country.",
-        "text": "Kim Jong-un inspected the construction site of convenience facilities in the Hwaseong district of Pyongyang, emphasizing the importance of improving public welfare. He focused on expanding service sectors, including commercial, recreational, and technical facilities. The article underscores the regime's efforts to portray itself as focused on improving the lives of its citizens, particularly in Pyongyang. The emphasis on new service sectors suggests a desire to modernize the capital and enhance its appeal.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "Constantly pioneering and expanding new service areas in new forms and methods occupies an important place in realizing our Party's policy of dramatically improving the material and cultural welfare of the capital's citizens and all people.",
+        "text": "This article details Kim Jong-un's inspection of convenience facilities in Pyongyang's new Hwaseong district, emphasizing the importance of improving people's welfare. The focus on commercial, catering, technology, and entertainment facilities suggests a shift towards consumer-oriented services and potentially greater economic activity. The mention of a computer gaming center is notable, as it suggests a greater tolerance for leisure activities, and the continued presence of Kim Jong Un's daughter. Pay attention to what services are considered \"essential\" for DPRK citizens.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404013300504",
       "date": "Fri, 4 Apr 2025 06:48:51 +0900"
     },
     {
       "originalTitle": "유엔 인권이사회, '러 파병 우려' 담긴 北인권결의 채택",
-      "translatedTitle": "UN Human Rights Council Adopts North Korea Human Rights Resolution, Including Concerns About Russian Troop Deployments",
+      "translatedTitle": "UN Human Rights Council Adopts North Korean Human Rights Resolution Containing 'Concerns Over Russian Troop Dispatch'",
       "summary": {
-        "quote": "The resolution specifically includes language reflecting the international community's concerns about North Korea's troop deployments to Russia, urging North Korea to refrain from using lethal and excessive force in areas that exacerbate civilian suffering and human rights abuses, and destabilize international security.",
-        "text": "The UN Human Rights Council adopted a resolution condemning human rights abuses in North Korea, including concerns about the nation's military deployment to Russia. It expresses concerns about forced labor and calls for the immediate release of arbitrarily detained individuals. Given the shift in international affairs, and Russia's prominence on the peninsula once again, the UN passing the resolution is nothing new in itself, the contents are very important to take stock of.",
+        "quote": "The Human Rights Council adopted a resolution on North Korean human rights that condemned North Korea's human rights violations, including the dispatch of troops to Russia, and called for improvement.",
+        "text": "This article reports on the UN Human Rights Council's adoption of a resolution condemning North Korea's human rights abuses, including the dispatch of troops to Russia. The inclusion of concerns about North Korea's involvement in the Russia-Ukraine conflict and the strengthened language regarding forced labor highlight the international community's increasing scrutiny of North Korea's actions. The resolution's call for the release of arbitrarily detained individuals, including South Korean missionaries, underscores the ongoing humanitarian concerns. Of course, this all must be gendered in considering how the human rights abuses may differentially impact women, queer people, and non-binary people.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250404001100109",
@@ -123,10 +178,10 @@
     },
     {
       "originalTitle": "[북한단신] 박인철 최고인민회의 의장, 러 공산당 대표단 면담",
-      "translatedTitle": "[North Korean Bulletin] Park In-cheol, Chairman of the Supreme People's Assembly, Meets with Delegation from the Russian Communist Party",
+      "translatedTitle": "[North Korea Bulletin] Park In-cheol, Chairman of the Supreme People's Assembly, Meets with Russian Communist Party Delegation",
       "summary": {
-        "quote": "Park In-cheol, Chairman of the Supreme People's Assembly, met with a delegation from the Russian Communist Party led by Kazbek Taysaev, Secretary of the Central Committee of the Russian Communist Party, at the Mansudae Assembly Hall on the 2nd.",
-        "text": "This brief bulletin reports a meeting between North Korean and Russian officials, specifically Park In-cheol, Chairman of the Supreme People's Assembly, and a delegation from the Russian Communist Party. The meeting highlights the ongoing diplomatic engagements between North Korea and Russia, potentially indicative of strengthening ties and shared ideological alignment. For a Korean historian, it is crucial to track these interactions and its implications.",
+        "quote": "Park In-cheol, Chairman of the Supreme People's Assembly, met with a delegation from the Russian Communist Party",
+        "text": "This brief article reports on a meeting between North Korean and Russian officials, highlighting the ongoing diplomatic engagement between the two countries. While details are limited, this interaction underscores the importance of Russia as a key partner for North Korea, especially in the context of international sanctions. Pay attention to the purpose of this delegation's visit, given increasing partnership.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250403156500504",
@@ -134,21 +189,21 @@
     },
     {
       "originalTitle": "[게시판] 하나원 탈북민 교육생, 제빵·나눔 봉사",
-      "translatedTitle": "[Bulletin] Hanawon Defector Trainees, Baking and Sharing Volunteer Work",
+      "translatedTitle": "[Bulletin] Hanawon North Korean Defector Trainees Participate in Baking and Sharing Volunteer Work",
       "summary": {
-        "quote": "Hanawon, in collaboration with the Korean Red Cross Gyeonggi Province Branch, conducted 'Love Baking and Sharing Volunteer Activities' in Gwonson-gu, Suwon-si, Gyeonggi-do on the 3rd, with the participation of Hanawon's North Korean defector trainees.",
-        "text": "This news item highlights a volunteer program where North Korean defector trainees at Hanawon participated in baking and sharing activities with the local community, in this case elder care. It demonstrates efforts to promote social integration and community involvement for defectors. These activities serve as a form of soft power and image building for the South Korean government in resettlement programs for North Korean defectors.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "Hanawon's North Korean defector trainees participated in 'Love Baking and Sharing Volunteer Activities'.",
+        "text": "This article highlights a volunteer activity involving North Korean defector trainees at Hanawon, a resettlement support center in South Korea. The participation in baking and sharing with local elderly residents demonstrates efforts to promote social integration and community engagement among defectors. This serves as a positive example of defectors contributing to South Korean society, contrasting with some narratives that depict them as marginalized or problematic. Pay attention to where and how social education is deployed.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250403156100504",
       "date": "Thu, 3 Apr 2025 17:31:15 +0900"
     },
     {
       "originalTitle": "북한 신종 외화벌이…IT업자로 위장취업해 유럽기업 침투",
-      "translatedTitle": "New North Korean Foreign Currency Earning Scheme…Infiltrating European Companies by Posing as IT Workers",
+      "translatedTitle": "North Korea's New Type of Foreign Currency Earning...Infiltrating European Companies by Disguising as IT Workers",
       "summary": {
-        "quote": "North Korea's 'IT warriors' are expanding their infiltration to Europe, disguising themselves as remote-working freelancers to earn foreign currency or engage in hacking activities.",
-        "text": "This article details a new scheme by North Korea to earn foreign currency by infiltrating European companies with IT workers posing as remote freelancers. These 'IT warriors' use false resumes to secure jobs and engage in hacking activities, posing a security risk to targeted companies. The expansion into Europe reflects a shift in strategy to circumvent sanctions and generate revenue for the regime. The sophistication of these schemes and the potential security implications warrant careful consideration.",
+        "quote": "North Korea's 'IT warriors', who earn foreign currency through hacking operations after being disguised as remote freelance workers for overseas companies, are recently expanding their disguised employment to Europe.",
+        "text": "This article reports on North Korea's expanding efforts to earn foreign currency through disguised employment of IT workers in European companies. The 'IT warriors' engage in hacking and other illicit activities to generate revenue for the regime, circumventing international sanctions. This highlights the evolving tactics of North Korea's illicit financial activities and the challenges in detecting and preventing them. Consider also how this might impact women's IT work and employment opportunities.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250403116600009",
@@ -156,69 +211,14 @@
     },
     {
       "originalTitle": "[북한날씨] 평남·황해 대체로 맑음…평북·함경은 흐림",
-      "translatedTitle": "[North Korean Weather] Mostly Clear in South Pyongan and Hwanghae…Cloudy in North Pyongan and Hamgyong",
+      "translatedTitle": "[North Korean Weather] Mostly Clear in South Pyongan and Hwanghae... Cloudy in North Pyongan and Hamgyong",
       "summary": {
-        "quote": "The weather forecast for North Korea indicates mostly clear conditions in South Pyongan and Hwanghae, but mostly cloudy in North Pyongan and Hamgyong.",
-        "text": "This is a weather forecast that gives temperatures and likelihood of precipitation in various regions of North Korea. While seemingly innocuous, these can impact agriculture and related outcomes. More of potential value is what can be gleaned about information control from even this simple piece of reporting.",
+        "quote": "North Korea will be mostly clear in South Pyongan and Hwanghae provinces on the 3rd, but mostly cloudy in North Pyongan and Hamgyong provinces.",
+        "text": "This is another weather report with the same analysis and interest-level rating as before.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250403016100504",
       "date": "Thu, 3 Apr 2025 06:45:04 +0900"
-    },
-    {
-      "originalTitle": "\"김일성大, 시베리아 과학기지에 대표사무소 설립 검토\"",
-      "translatedTitle": "\"Kim Il-sung University Considers Establishing Representative Office at Siberian Science Base\"",
-      "summary": {
-        "quote": "Kim Il-sung University in North Korea is considering establishing a representative office at Akademgorodok, a science base in Siberia, Russia.",
-        "text": "Kim Il-sung University is exploring establishing a representative office at Akademgorodok in Siberia, Russia. This move signifies a deepening of scientific and educational cooperation between North Korea and Russia. Planned activities include joint research, student and faculty exchanges, and academic events and specialized instruction in physics and mathematics. The enhanced relationship between the two nations could be seen as an effort to counter international isolation and access expertise in certain scientific fields.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250403015300504",
-      "date": "Thu, 3 Apr 2025 06:42:37 +0900"
-    },
-    {
-      "originalTitle": "\"북한 새 군함, 미사일 50기 이상 탑재할 수직발사대 갖춘 듯\"",
-      "translatedTitle": "\"North Korea's New Warship Appears to Have Vertical Launchers Capable of Carrying More Than 50 Missiles\"",
-      "summary": {
-        "quote": "Satellite imagery analysis suggests that North Korea's new warship, under construction in Nampo, is likely equipped with vertical launch systems capable of carrying over 50 missiles.",
-        "text": "Analysis of satellite imagery suggests that a new North Korean warship under construction is equipped with vertical launch systems, potentially capable of carrying over 50 missiles. This development indicates a significant advancement in North Korea's naval capabilities and could alter the balance of power in the region. The enhanced missile capacity and the implications for regional deterrence warrant careful attention.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250402163600009",
-      "date": "Wed, 2 Apr 2025 20:45:44 +0900"
-    },
-    {
-      "originalTitle": "[북한단신] 사리원에 수영장 갖춘 봉사기지 준공",
-      "translatedTitle": "[North Korean Bulletin] Service Base with Swimming Pool Completed in Sariwon",
-      "summary": {
-        "quote": "A multi-functional service base, equipped with a swimming pool and various sports and treatment facilities, has been completed and is in operation in Sariwon City, North Hwanghae Province.",
-        "text": "This bulletin announces the completion of a multi-functional service base in Sariwon, featuring a swimming pool and other recreational facilities. While providing specific information, this also illuminates the DPRK media's focus on leisure and lifestyle amenities which are usually framed as achievements and advances, reflecting a propagandistic focus on portraying improvement in the lives of North Korean citizens.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250402149200504",
-      "date": "Wed, 2 Apr 2025 17:38:31 +0900"
-    },
-    {
-      "originalTitle": "\"새로운 꿈 이루는 데 보탬 되길\"…탈북민 정착지원에 10억 기부",
-      "translatedTitle": "\"Hoping to Contribute to Achieving New Dreams\"…1 Billion Won Donated to Support Resettlement of North Korean Defectors",
-      "summary": {
-        "quote": "Unlike North Korea, Korea is a place where you can create a better life as much as you work hard. I sincerely hope that my small donation will help you achieve your new dreams.",
-        "text": "A South Korean citizen, Yang Han-jong, donated 1 billion won to support the resettlement of North Korean defectors, driven by his personal experience as a member of a divided family. The donation aims to provide financial assistance to Hanawon graduates and support other related projects. This act of generosity reflects a growing awareness of the challenges faced by defectors and is a welcome sign for those following the trends of North Korean migration narratives in the South.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250402084500504",
-      "date": "Wed, 2 Apr 2025 13:35:14 +0900"
-    },
-    {
-      "originalTitle": "北 \"미일 군수협력, 지역 불안정 요소…강력 억제력 비축할 것\"(종합)",
-      "translatedTitle": "North Korea: US-Japan Military Cooperation is a Source of Regional Instability...Will Accumulate Powerful Deterrent (Comprehensive)",
-      "summary": {
-        "quote": "The joint production of advanced weapons pursued by the United States and Japan adds a new strategic instability factor to the Asia-Pacific region and brings an ominous atmosphere.",
-        "text": "North Korea criticizes the recent military cooperation between the U.S. and Japan, particularly the joint production of advanced weaponry, claiming it as a source of regional instability. North Korea views this cooperation as an attempt to militarily suppress regional countries and expresses its intent to accumulate a powerful deterrent force. This is framed as a reaction to perceived threats from the U.S. and its allies and represents a continuation of the regime's rhetoric of self-defense.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250402011951504",
-      "date": "Wed, 2 Apr 2025 10:12:42 +0900"
     }
   ]
 }
