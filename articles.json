@@ -1,11 +1,99 @@
 {
   "articles": [
     {
-      "originalTitle": "[북한날씨] 오전에 평북·함경 비 또는 눈…오후 맑아져",
-      "translatedTitle": "North Korean Weather: Rain or Snow in North Pyongan and Hamgyong Provinces in the Morning... Clearing Up in the Afternoon",
+      "originalTitle": "북한군 10여명, 무장한 채 MDL 침범했다 경고사격에 퇴각(종합2보)",
+      "translatedTitle": "North Korean Soldiers Briefly Cross MDL, Retreat After Warning Shots (Comprehensive Report)",
       "summary": {
-        "quote": "Pyongyang and other areas south of the central region will be foggy and a fog advisory has been issued",
-        "text": "This article reports on the weather forecast for North Korea, indicating overcast conditions with potential rain or snow in northern provinces during the morning, clearing up in the afternoon. A fog advisory was issued for Pyongyang and other southern regions. It provides a region by region breakdown of weather conditions and temperatures.",
+        "quote": "Soldiers wearing protective gear that appeared to be for protection against landmines and armed soldiers were mixed together as if patrolling and it appears to be reconnaissance activity for advance work, and there is also a possibility that they accidentally crossed the MDL due to the terrain",
+        "text": "Ten North Korean soldiers crossed the Military Demarcation Line (MDL) into South Korea. Some were armed. South Korean forces fired warning shots, prompting the North Koreans to retreat. The article suggests possible reasons, including testing South Korean readiness during a period of political instability or reconnaissance for future operations, noting that the area's topography makes accidental crossings easier. Of note is mention of their gear appearing to prepare them against landmines, as well as the area not being a normal location for brush clearing that often accounts for accidental crossings.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408158352504",
+      "date": "Tue, 8 Apr 2025 20:02:46 +0900"
+    },
+    {
+      "originalTitle": "북한군 10여명, 무장한 채 MDL 침범했다 경고사격에 북상(종합)",
+      "translatedTitle": "North Korean Soldiers Briefly Cross MDL, Retreat After Warning Shots (Summary)",
+      "summary": {
+        "quote": "Soldiers wearing protective gear that appeared to be for protection against landmines and armed soldiers were mixed together as if patrolling and it appears to be reconnaissance activity for advance work, and there is also a possibility that they accidentally crossed the MDL due to the terrain",
+        "text": "This article summarizes the same event: a brief incursion by North Korean soldiers across the MDL, resulting in warning shots and retreat. It again raises the possibility of this being a probe of South Korean defenses due to the current political climate. The presence of soldiers prepared to detonate landmines suggests a potentially strategic or deliberate purpose beyond routine border maintenance, making this event notable for potential escalation or deeper strategic signaling. Of note is mention of their gear appearing to prepare them against landmines, as well as the area not being a normal location for brush clearing that often accounts for accidental crossings.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408158351504",
+      "date": "Tue, 8 Apr 2025 19:12:20 +0900"
+    },
+    {
+      "originalTitle": "합참 \"북한군 10여명 MDL 침범했다 경고사격에 북상\"",
+      "translatedTitle": "JCS: North Korean Soldiers Briefly Crossed MDL, Retreat After Warning Shots",
+      "summary": {
+        "quote": "The JCS stated that they are closely monitoring the movements of the North Korean military and taking necessary measures in accordance with operational procedures",
+        "text": "This is a brief statement from the Joint Chiefs of Staff (JCS) confirming the MDL crossing and subsequent retreat of North Korean soldiers. It emphasizes the JCS's monitoring of the situation and adherence to standard operating procedures. While concise, this confirms the incident's official acknowledgement and suggests ongoing monitoring for potential follow-up actions or escalation, so it is worth being aware of.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408158300504",
+      "date": "Tue, 8 Apr 2025 18:26:18 +0900"
+    },
+    {
+      "originalTitle": "[속보] 합참 \"북한군 10여명 MDL 침범했다 북상…경고사격 실시\"",
+      "translatedTitle": "[Breaking] JCS: North Korean Soldiers Briefly Crossed MDL, Retreat… Warning Shots Fired",
+      "summary": {
+        "quote": "N/A",
+        "text": "This is a breaking news alert about the MDL crossing incident, repeating the core facts: North Korean soldiers crossed the MDL, retreated, and warning shots were fired. As there is no actual text or summary it provides no new information or depth beyond the other reports, it serves primarily as a confirmation of the event's immediate reporting by media outlets.",
+        "interestLevel": "⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408157500504",
+      "date": "Tue, 8 Apr 2025 18:17:22 +0900"
+    },
+    {
+      "originalTitle": "[북한단신] 김일성 생일 경축 중앙사진전람회 개막",
+      "translatedTitle": "[North Korea News in Brief] Central Photo Exhibition Celebrating Kim Il-sung's Birthday Opens",
+      "summary": {
+        "quote": "The Central Photo Exhibition 《A Journey of Devotion for the People's Happiness》 commemorating the 113th anniversary of Kim Il-sung's birth (April 15th) opened at the Okryu Exhibition Hall on the 7th",
+        "text": "This article is a collection of short news items related to North Korea. It includes information on the opening of a photo exhibition celebrating Kim Il-sung's birthday, a statement from an Italian political figure praising Kim Il-sung, the closing of a food exhibition, the return of a Russian communist delegation, and an upcoming national industrial art exhibition. While none of these items are individually critical, their combined effect provides a snapshot of North Korean cultural and political activities, including continued idolization of Kim Il-sung.",
+        "interestLevel": "⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408131400504",
+      "date": "Tue, 8 Apr 2025 17:01:47 +0900"
+    },
+    {
+      "originalTitle": "탈북민 농어촌 정착지원 확대…어업·임업도 취·창업 지원",
+      "translatedTitle": "Support for North Korean Defectors' Settlement in Rural Areas Expanded… Employment and Entrepreneurship Support for Fisheries and Forestry",
+      "summary": {
+        "quote": "The Ministry of Unification announced that the revised 'Act on the Protection and Settlement Support of North Korean Defectors' (North Korean Defector Act), which includes adding forestry and fisheries to the job (employment and entrepreneurship) project support fields for North Korean defectors who want to settle in rural areas, was promulgated on the 8th",
+        "text": "This article reports on the expansion of support for North Korean defectors settling in rural areas of South Korea. It notes that the revised 'North Korean Defector Act' now includes support for employment and entrepreneurship in the fisheries and forestry sectors, broadening the scope of assistance beyond traditional agriculture. This change could have implications for the types of skills and backgrounds that are valued in defectors seeking resettlement, potentially attracting individuals with experience in these sectors and perhaps altering gendered patterns of occupation.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408089900504",
+      "date": "Tue, 8 Apr 2025 13:52:08 +0900"
+    },
+    {
+      "originalTitle": "北, 평양마라톤 명칭서 김일성 생가 뜻하는 '만경대' 삭제",
+      "translatedTitle": "North Korea Removes 'Mangyongdae,' Meaning Kim Il-sung's Birthplace, from Pyongyang Marathon Name",
+      "summary": {
+        "quote": "An official from the Ministry of Unification met with reporters at the Government Seoul Complex on the 8th and stated, 'North Korea has changed the name of the Pyongyang International Marathon from the previous 'Mangyongdae Prize International Marathon Competition' to 'Pyongyang International Marathon Competition'",
+        "text": "This article discusses North Korea's decision to remove 'Mangyongdae,' referencing Kim Il-sung's birthplace, from the Pyongyang Marathon's official name. This change is interpreted by the South Korean Ministry of Unification as a potential sign of de-emphasizing Kim Il-sung's personality cult or moving away from the first family. It could signal subtle shifts in North Korean ideology or priorities, especially regarding state-sponsored events and national identity, though other indicators like the continued use of the term 'Kim Il-sung's birthday' complicates any clean read of this move.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408088400504",
+      "date": "Tue, 8 Apr 2025 13:46:06 +0900"
+    },
+    {
+      "originalTitle": "日, 북한 제재 '수출입·선박입항 금지' 2년 연장",
+      "translatedTitle": "Japan Extends Sanctions Against North Korea 'Import/Export and Ship Entry Ban' for 2 Years",
+      "summary": {
+        "quote": "North Korea is repeatedly launching ballistic missiles, and the issue of Japanese abductees by North Korea has not yet been resolved",
+        "text": "Japan has extended its independent sanctions against North Korea for another two years, including bans on imports/exports and the entry of North Korean ships. The decision is attributed to North Korea's ongoing ballistic missile launches and the unresolved issue of Japanese citizens abducted by North Korea. This action reflects Japan's continued concern over North Korea's military activities and human rights record, contributing to the broader international pressure on the Kim regime.",
+        "interestLevel": "⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250408086200073",
+      "date": "Tue, 8 Apr 2025 11:37:49 +0900"
+    },
+    {
+      "originalTitle": "[북한날씨] 오전에 평북·함경 비 또는 눈…오후 맑아져",
+      "translatedTitle": "[North Korea Weather] Rain or Snow in North Pyongan and Hamgyong Provinces in the Morning… Clearing Up in the Afternoon",
+      "summary": {
+        "quote": "The Korean Central Broadcasting Station reported that 'Fog will occur in many areas south of the central region, including Pyongyang City', and a fog advisory has been issued",
+        "text": "This article provides a weather forecast for North Korea, predicting rain or snow in certain provinces in the morning and clearing skies in the afternoon. It also notes the presence of fog in several regions, including Pyongyang, leading to a fog advisory. The information offers some insights into daily life and environmental conditions in North Korea, which can indirectly affect economic activities and agricultural production.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250408014100504",
@@ -13,21 +101,21 @@
     },
     {
       "originalTitle": "유엔 \"北 영유아사망률 1천명당 18명\"…코로나 봉쇄기간 0.3명↑",
-      "translatedTitle": "UN: North Korea Infant Mortality Rate at 18 per 1,000... Up 0.3 During COVID Lockdowns",
+      "translatedTitle": "UN: North Korea's Infant Mortality Rate at 18 per 1,000… Up 0.3 During COVID Lockdown",
       "summary": {
-        "quote": "North Korea's under-5 mortality rate was estimated at 18 per 1,000 in 2023",
-        "text": "The UN estimates that North Korea's infant mortality rate worsened during the COVID-19 pandemic and border closures. The under-5 mortality rate is estimated at 18 per 1,000 live births in 2023, a slight increase from 2019, reversing previous improvements. The article suggests that reduced vaccination rates during the pandemic may have contributed to this increase, leaving children more vulnerable to infectious diseases.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
+        "quote": "According to infant mortality statistics recently released by the United Nations Inter-agency Group for Child Mortality Estimation, the under-five mortality rate in North Korea in 2023 is estimated at 18 per 1,000",
+        "text": "This article highlights the UN's estimate that North Korea's infant mortality rate worsened during the COVID-19 pandemic, increasing from 17.7 to 18 per 1,000 live births. This suggests a possible deterioration in healthcare access or nutritional support during the period of border closures. The article speculates that reduced vaccination rates may have contributed to increased vulnerability to infectious diseases, which is notable considering the impact of international sanctions on the DPRK and any potential intersection with gender as women often bear the brunt of the work.",
+        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250408013100504",
       "date": "Tue, 8 Apr 2025 07:13:09 +0900"
     },
     {
       "originalTitle": "北 '한국전쟁 지원군 기념시설' 中관리인력 5년만에 돌아와",
-      "translatedTitle": "North Korea: Chinese Personnel Return to Korean War Support Army Memorial Facilities After 5 Years",
+      "translatedTitle": "China Returns Management Personnel to North Korea's Korean War Support Army Memorial Facilities After 5 Years",
       "summary": {
-        "quote": "Welcome back to Korea after 5 years",
-        "text": "Chinese personnel responsible for managing memorial facilities dedicated to the Chinese People's Volunteer Army (Korean War) have returned to North Korea after a five-year absence due to COVID-19 restrictions. The Chinese ambassador visited the facilities, emphasizing the importance of maintaining the memorials and promoting friendship between North Korea and China. This event signals a potential thaw in relations and increased exchange after a period of limited high-level interaction.",
+        "quote": "Wang Ya-jun, the Chinese ambassador to North Korea, visited the memorial facilities on the 1st of this month and 'welcomed them back to Joseon (North Korea) after five years' and 'the ambassador grasped the work and living situation there'",
+        "text": "This article reports on the return of Chinese personnel to manage Korean War-related memorial sites in North Korea after a five-year absence due to COVID-19. This development signals a potential thaw in relations between North Korea and China and highlights the ongoing significance of the Korean War narrative in their bilateral relationship. The return of these personnel, along with Chinese journalists earlier this year, indicates a gradual re-engagement between the two countries and suggests increasing information flowing from North Korea to China.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407140100083",
@@ -35,10 +123,10 @@
     },
     {
       "originalTitle": "日경찰, '北외화벌이 신분위장 지원' 일본인 2명 송치",
-      "translatedTitle": "Japanese Police Transfer Two Japanese Nationals for 'Supporting North Korean Foreign Currency Earnings by Disguising Identities'",
+      "translatedTitle": "Japanese Police Refer Two Japanese Nationals for 'Supporting North Korean Foreign Currency Earning Scheme by Impersonating Identities'",
       "summary": {
-        "quote": "North Korean IT technicians disguise their identities to receive work orders, which is a national foreign currency acquisition activity that is problematic for the UN and others",
-        "text": "Japanese police have apprehended two Japanese individuals suspected of aiding a North Korean IT worker in posing as a Japanese citizen. The individuals provided personal documents for the IT worker to obtain online work and funneled the earnings, minus a commission, to overseas accounts believed to be linked to North Korea. The money earned is suspected to have been used to fund North Korea's nuclear and missile programs and highlights North Korean attempts to earn foreign currency through illicit means.",
+        "quote": "North Korean IT technicians impersonating identities to receive orders for work is a national foreign currency earning activity that the UN and others are raising as a problem",
+        "text": "Japanese police have referred two Japanese nationals to prosecutors for allegedly aiding a North Korean IT worker in impersonating a Japanese citizen to obtain work. The North Korean IT worker used the acquired identity to register on websites and secure contracts, with the Japanese nationals allegedly receiving a percentage of the earnings and transferring the rest overseas, ultimately to North Korea. This case highlights North Korea's efforts to earn foreign currency through illicit means, including IT work, and raises concerns about the potential use of these funds for weapons development, including potential gender aspects of this work given the gendered division of labor.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407122900073",
@@ -46,10 +134,10 @@
     },
     {
       "originalTitle": "[영상] 6년만에 재개 '평양마라톤' 46개국 참가…본격 외화벌이 신호?",
-      "translatedTitle": "[Video] Pyongyang Marathon Reopened After 6 Years, With Participants From 46 Countries... A Signal for Full-Scale Foreign Currency Earning?",
+      "translatedTitle": "[Video] Pyongyang Marathon Reopens After 6 Years with Participants from 46 Countries… A Signal for Full-Scale Foreign Currency Earning?",
       "summary": {
-        "quote": "The 31st Pyongyang International Marathon was held on the 6th",
-        "text": "North Korea has reopened the Pyongyang International Marathon after a six-year hiatus due to the COVID-19 pandemic, with over 200 foreign athletes participating from 46 countries. The event included full and half marathon courses, as well as 10km and 5km races. The marathon is part of a larger tourism package and is analyzed as a potential signal of North Korea's renewed efforts to generate foreign currency by reopening its borders to tourists after extended COVID-19 related closures.",
+        "quote": "The 31st Pyongyang International Marathon Competition was held on the 6th, according to the Korean Central News Agency on the 7th",
+        "text": "This article reports on the reopening of the Pyongyang International Marathon after a six-year hiatus due to the COVID-19 pandemic. The event drew participants from 46 countries and included various tourist activities. The article suggests that the marathon's resumption could signal North Korea's attempt to reopen its borders and engage in foreign currency earning activities, and is notable as the first time post-COVID they have allowed this to resume. Of note is that citizens from the US, South Korea, and Malaysia were not able to enter.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407122300704",
@@ -57,32 +145,32 @@
     },
     {
       "originalTitle": "[북한단신] 김정은, 라오스 주석에게 조전",
-      "translatedTitle": "[North Korean News in Brief] Kim Jong-un Sends Condolences to Laotian President",
+      "translatedTitle": "[North Korea News in Brief] Kim Jong-un Sends Condolences to Laotian President",
       "summary": {
         "quote": "Kim Jong-un sent a message of condolence to Laotian President Thongloun Sisoulith on the death of former Laotian President Khamtai Siphandone",
-        "text": "This article contains brief news items from North Korea, including Kim Jong-un sending condolences to the Laotian President, Cambodian royalty sending flowers for Kim Il-sung's birthday, a performance by Pyongyang high school graduates, and an award ceremony for faculty at Chongryon's Korea University in Japan. None of these items are very noteworthy but could be useful for general awareness.",
-        "interestLevel": "⭐️"
+        "text": "This article summarizes miscellaneous news items, including Kim Jong-un sending condolences to Laos's president, floral baskets sent to North Korea's embassy in Cambodia on Kim Il-sung's birthday, a performance by Pyongyang high school students, and the awarding of professorships to teachers at Chongryon's Korea University. While individually minor, these events collectively indicate North Korea's diplomatic engagement, cultural activities, and continued emphasis on education, which can give insight into domestic priorities.",
+        "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407117400504",
       "date": "Mon, 7 Apr 2025 16:41:47 +0900"
     },
     {
       "originalTitle": "인권위원장 \"유엔인권이사회 북한인권결의 채택 환영\"",
-      "translatedTitle": "Human Rights Chairman Welcomes Adoption of UN Human Rights Council Resolution on North Korea Human Rights",
+      "translatedTitle": "Human Rights Commissioner Welcomes Adoption of UN Human Rights Council Resolution on North Korea Human Rights",
       "summary": {
-        "quote": "The resolution calls for the immediate release of North Korean defectors and UN member state nationals who have been forcibly deported or repatriated and detained",
-        "text": "The head of South Korea's National Human Rights Commission welcomes the UN Human Rights Council's unanimous adoption of a resolution addressing human rights concerns in North Korea. The resolution calls for the release of forcibly returned defectors, an end to forced labor and child punishment, and condemns excessive use of force that contributes to international insecurity, referencing the Russia-Ukraine war. The statement reflects concern over ongoing systemic human rights violations and expresses hope for positive change through cooperation with the international community.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "Commissioner Ahn stated that the resolution includes calls for the immediate release of North Korean defectors and UN member state nationals who have been forcibly deported or repatriated to North Korea, as well as the cessation of human rights violations such as forced labor and punishment of children",
+        "text": "The National Human Rights Commission of Korea welcomes the UN Human Rights Council's adoption of a resolution on North Korea's human rights situation. The resolution condemns human rights abuses, including the forced repatriation of defectors, forced labor, and the punishment of children. The resolution also addresses the issue of North Korean workers being sent to Russia to fight in the war, and offers some key international condemnation of the issues. Of particular note is the specific mention of Russia, so this offers a helpful update on UN human rights position.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407099400004",
       "date": "Mon, 7 Apr 2025 14:55:55 +0900"
     },
     {
       "originalTitle": "北, 6년 만에 평양서 국제마라톤대회…코로나 이후 첫 개최(종합)",
-      "translatedTitle": "North Korea Holds International Marathon in Pyongyang for the First Time in 6 Years After COVID-19 (Comprehensive)",
+      "translatedTitle": "North Korea Holds International Marathon in Pyongyang After 6 Years… First Event Since COVID-19 (Comprehensive)",
       "summary": {
-        "quote": "As the starting gun fired, the athletes and enthusiasts left the starting line and ran vigorously along the designated course",
-        "text": "North Korea has hosted the Pyongyang International Marathon for the first time in six years since the COVID-19 pandemic. Athletes from North Korea, China, and other countries participated in the event, which included full and half marathons, 10km, and 5km races. This reopening signals a potential shift towards resuming tourism and generating foreign currency after prolonged border closures, but could be reversed if there are any threats to the Kim regime or internal stability.",
+        "quote": "Labor Newspaper described the atmosphere in Pyongyang on the day of the marathon, saying, 'As the starting gun sounded, the athletes and enthusiasts who left the starting line ran vigorously along the designated course' and 'Workers and teenagers waved and gave enthusiastic applause to encourage the marathon runners running through the streets of the capital, including Gaeseon Street, Seungri Street, and Cheongchun Street'",
+        "text": "North Korea held the Pyongyang International Marathon after a six-year hiatus due to the pandemic. Athletes and running enthusiasts from North Korea, China, Romania, Morocco, and Ethiopia participated. The reopening of the marathon, which includes views of Pyongyang's 'Newtown' Hwasong Street, is a significant indicator of a potential shift in North Korea's approach to tourism and foreign relations. Of note is that while recent tourists had been halted again, they still planned to go forward with the marathon.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407005851504",
@@ -90,10 +178,10 @@
     },
     {
       "originalTitle": "법관기피로 중단된 이재명 '대북송금 사건' 재판 4개월만에 재개",
-      "translatedTitle": "Lee Jae-myung's 'North Korean Remittance Case' Trial Resumes After 4-Month Suspension Due to Judge Recusal",
+      "translatedTitle": "Trial of Lee Jae-myung's 'North Korea Remittance Case,' Halted Due to Judge Recusal, to Resume After 4 Months",
       "summary": {
-        "quote": "The trial procedure, which had been suspended since December 13 last year when Representative Lee filed a motion to recuse the then-Criminal Division 11 judge (Chief Judge Shin Jin-woo), is expected to resume after about four months",
-        "text": "The trial of Lee Jae-myung, leader of the Democratic Party, related to the 'North Korean remittance case' is set to resume after being suspended for four months due to a judge recusal request. The case involves allegations of Lee's involvement in illegal remittances to North Korea through the 쌍방울 group during his time as Governor of Gyeonggi Province, specifically to cover the province's expenses for a smart farm project and Lee's potential visit to North Korea.",
+        "quote": "Lee Jae-myung and former Vice Governor Lee Hwa-young were indicted without detention on June 12 last year on charges of violating the Act on the Aggravated Punishment of Specific Crimes (Bribery), the Foreign Exchange Transactions Act, and the Act on Inter-Korean Exchange and Cooperation",
+        "text": "The trial of Lee Jae-myung, leader of the Democratic Party, related to the 'North Korea remittance case' is set to resume after a four-month suspension due to a judge recusal request. The case involves allegations that Lee, while governor of Gyeonggi Province, had the head of Ssangbangwool Group pay for the province's expenses, including a proposed smart farm project and Lee's potential visit to North Korea. The court's decision to resume the trial could have significant political implications for Lee and the Democratic Party, given that it is being so close to elections.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407052100061",
@@ -101,10 +189,10 @@
     },
     {
       "originalTitle": "[북한날씨] 평북·함경도 대체로 흐림…\"안개주의 경보\"",
-      "translatedTitle": "[North Korean Weather] North Pyongan and Hamgyong Provinces Mostly Cloudy... 'Fog Alert'",
+      "translatedTitle": "[North Korea Weather] North Pyongan and Hamgyong Provinces Mostly Cloudy… \"Fog Advisory\"",
       "summary": {
-        "quote": "Pyongyang and many areas south of central region will be foggy and dense fog with visibility below 100m is expected in some areas",
-        "text": "This article reports on the weather forecast for North Korea, indicating mostly cloudy conditions in North Pyongan and Hamgyong provinces, with potential rain or snow in the evening. A fog advisory was issued for Pyongyang and other southern regions with visibility potentially dropping below 100m. This is typical and not too newsworthy.",
+        "quote": "The Korean Central Broadcasting Station reported, 'Fog will occur in many areas south of the central region, including Pyongyang City. Dense fog with a visibility of less than 100m is expected in some areas' and issued a 'Fog Advisory'",
+        "text": "The weather forecast for North Korea indicates mostly cloudy conditions in North Pyongan and Hamgyong provinces. A fog advisory has been issued for central and southern regions, including Pyongyang, due to expected dense fog. This report provides a glimpse into the weather patterns and broadcasting practices within North Korea, while having any significant implication for the cold war.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407006300504",
@@ -112,10 +200,10 @@
     },
     {
       "originalTitle": "北, 6년 만에 평양서 국제마라톤대회…코로나 이후 첫 개최",
-      "translatedTitle": "North Korea Holds International Marathon in Pyongyang for the First Time in 6 Years After COVID-19",
+      "translatedTitle": "North Korea Holds International Marathon in Pyongyang After 6 Years… First Event Since COVID-19",
       "summary": {
-        "quote": "Athletes and enthusiasts who left the starting line as soon as the starting gun fired energetically ran along the pre-established course",
-        "text": "North Korea has hosted the Pyongyang International Marathon for the first time in six years since the COVID-19 pandemic. Athletes from North Korea, China, and other countries participated in the event, which included full and half marathons, 10km, and 5km races. The reopening signals a potential shift towards resuming tourism and generating foreign currency after prolonged border closures.",
+        "quote": "Labor Newspaper described the atmosphere in Pyongyang on the day of the marathon, saying, 'As the starting gun sounded, the athletes and enthusiasts who left the starting line ran vigorously along the designated course' and 'Workers and teenagers waved and gave enthusiastic applause to encourage the marathon runners running through the streets of the capital, including Gaeseon Street, Seungri Street, and Cheongchun Street'",
+        "text": "North Korea held the Pyongyang International Marathon after a six-year hiatus due to the pandemic. Athletes and running enthusiasts from North Korea, China, Romania, Morocco, and Ethiopia participated. It signifies a tentative step towards reopening its borders and engaging with the international community after a prolonged period of isolation. Of note is the potential implications for the country's economy and international relations.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250407005800504",
@@ -123,102 +211,14 @@
     },
     {
       "originalTitle": "[북한단신] 러시아 공산당 대표단 만경대 방문",
-      "translatedTitle": "[North Korean News in Brief] Russian Communist Party Delegation Visits Mangyongdae",
+      "translatedTitle": "[North Korea News in Brief] Russian Communist Party Delegation Visits Mangyongdae",
       "summary": {
-        "quote": "A delegation from the Communist Party of Russia, headed by Secretary Kazbek Taysaev, visited Mangyongdae, the birthplace of Kim Il-sung",
-        "text": "This article presents a series of brief news items from North Korea. The Russian Communist Party delegation visited Mangyongdae, the birthplace of Kim Il-sung, and other locations, the international marathon included Chinese, Romanian, Moroccan, and Ethiopian atheletes, and arrived in Pyongyang. It is an interesting tidbit regarding international relations with Russia.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "A delegation from the Russian Communist Party, headed by Secretary Kazbek Taysaev, visited Mangyongdae, the birthplace of Kim Il-sung",
+        "text": "This article provides a series of brief news items. The Russian Communist Party delegation's visit to Mangyongdae, the birthplace of Kim Il-sung, is particularly notable, underscoring the ongoing ideological ties between North Korea and Russia, and indicates continued diplomatic ties between the two parties and suggests some level of cooperation or information sharing.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250406038600504",
       "date": "Sun, 6 Apr 2025 17:00:33 +0900"
-    },
-    {
-      "originalTitle": "[북한날씨] 전지역 흐리다가 오후부터 맑아져",
-      "translatedTitle": "[North Korean Weather] Mostly Cloudy, Clearing Up From Afternoon Throughout The Area",
-      "summary": {
-        "quote": "Pyongyang will be foggy in the morning and will mostly clear from the morning",
-        "text": "The weather forecast for North Korea predicts mostly cloudy conditions across the country, clearing up in the afternoon. Hamgyongbuk-do will be cloudy, with occasional rain or snow in Pyonganbuk-do and Hamgyong Provinces from early morning to late afternoon. This could be usefull for analysis if the weather is related to some event but in this summary on its own it does not provide valuable data.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250406004000504",
-      "date": "Sun, 6 Apr 2025 06:30:32 +0900"
-    },
-    {
-      "originalTitle": "[북한단신] 김성남 당 국제부장, 러 공산당 대표단 면담",
-      "translatedTitle": "[North Korean News in Brief] Kim Song-nam, Director of the Party's International Department, Meets with Russian Communist Party Delegation",
-      "summary": {
-        "quote": "Kim Song-nam, director of the Workers' Party International Department, met with a delegation from the Communist Party of Russia",
-        "text": "This article contains brief news items from North Korea, including a meeting between Kim Song-nam and a Russian Communist Party delegation. Another item lists sporting events going on. Meeting is something to note for tracking international relations with Russia, and also tracking party officials.",
-        "interestLevel": "⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250405038900504",
-      "date": "Sat, 5 Apr 2025 17:14:57 +0900"
-    },
-    {
-      "originalTitle": "북한도 연일 '산불조심' 강조…\"경중따지면 돌이킬수 없는 후과\"",
-      "translatedTitle": "North Korea Emphasizes 'Forest Fire Prevention' Every Day... 'Irreversible Consequences If Importance Is Not Weighed'",
-      "summary": {
-        "quote": "If you prioritize the business and regard forest fire prevention as secondary, gaps will occur, eventually leading to irreversible consequences",
-        "text": "North Korean state media is emphasizing the importance of forest fire prevention during the spring season. Articles highlight the need for comprehensive measures and criticize negligence in enforcing regulations and could reflect a fear of potential economic consequences. The media also covers wildfires in South Korea, potentially to highlight the dangers of fire and the potential of the issue to have negative consequences when not managed properly.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250403173500504",
-      "date": "Sat, 5 Apr 2025 07:13:00 +0900"
-    },
-    {
-      "originalTitle": "[북한날씨] 대체로 흐리고 평안도·함경도·황해도에 비",
-      "translatedTitle": "[North Korean Weather] Mostly Cloudy and Rain in Pyongan, Hamgyong, and Hwanghae Provinces",
-      "summary": {
-        "quote": "North Korea will be mostly cloudy and rain is expected in Pyongan, Hamgyong, and Hwanghae Provinces",
-        "text": "This article reports on the weather forecast for North Korea, predicting mostly cloudy conditions with rain in Pyongan, Hamgyong, and Hwanghae provinces. This is typical weather information and not too newsworthy for the professor's work.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250405012200504",
-      "date": "Sat, 5 Apr 2025 06:52:16 +0900"
-    },
-    {
-      "originalTitle": "[尹파면] 북한, 하루지나 논평 없이 간략 보도…\"재판관 전원일치\"",
-      "translatedTitle": "[Yoon Impeachment] North Korea Reports Briefly Without Commentary After One Day... 'Unanimous Decision by All Judges'",
-      "summary": {
-        "quote": "According to the decision adopted unanimously by all eight judges, Yoon Seok-yeol was immediately dismissed from the presidency",
-        "text": "North Korea briefly reported on the impeachment of former South Korean President Yoon Suk-yeol without providing commentary a day after the ruling. The article highlights the unanimous decision by the constitutional court. The delayed response is interpreted as a deliberate distancing from South Korea, given the declared 'hostile two-state relationship'.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250405012000504",
-      "date": "Sat, 5 Apr 2025 06:48:36 +0900"
-    },
-    {
-      "originalTitle": "김정은, 尹파면된 날 특수부대 훈련시찰…\"싸움준비완성이 애국\"",
-      "translatedTitle": "Kim Jong-un Inspects Special Forces Training on Day of Yoon's Impeachment... 'Completing Battle Readiness is Patriotism'",
-      "summary": {
-        "quote": "Completing battle preparations is the greatest patriotism and loyalty to the state and people",
-        "text": "On the same day that South Korea's Constitutional Court impeached former President Yoon Suk-yeol, Kim Jong-un inspected special operations forces training, emphasizing battle readiness. Kim emphasized ideological preparedness and highlighted the importance of strengthening special operations forces as a key component of North Korea's military strategy. There are strong signals that he is trying to show he would capitalize on the confusion in the south, and prepare his troops to move into the south, including a strong push with newly made sniper weapons.",
-        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250405011600504",
-      "date": "Sat, 5 Apr 2025 06:37:32 +0900"
-    },
-    {
-      "originalTitle": "[尹파면] 북, 아직 무반응…박근혜 때는 2시간여만에 신속 보도",
-      "translatedTitle": "[Yoon Impeachment] North Korea, Still No Reaction... Quickly Reported Park Geun-hye's Case in About 2 Hours",
-      "summary": {
-        "quote": "North Korea has not reported any news related to the Constitutional Court's decision to impeach former President Yoon Seok-yeol",
-        "text": "North Korea had yet to react to the news as of this report. This silence contrasts with their swift coverage of Park Geun-hye's impeachment in 2017. The lack of response could be related to heightened tensions and could mean that they are still deciding how to react and what type of response they want to give, though it is likely to continue the practice of minimal engagement.",
-        "interestLevel": "⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250404170100504",
-      "date": "Fri, 4 Apr 2025 21:43:54 +0900"
-    },
-    {
-      "originalTitle": "[북한단신] 김정은 작년 업적 담은 중앙사진전람회 개막",
-      "translatedTitle": "[North Korean News in Brief] Kim Jong-un's Central Photo Exhibition of Achievements Opens Last Year",
-      "summary": {
-        "quote": "The Central Photo Exhibition showing the achievements made by State Affairs Chairman Kim Jong-un in 2024 opened on the 3rd at the People's Palace of Culture",
-        "text": "This article compiles a list of brief news reports from North Korea. They include the opening of a photo exhibition showcasing Kim Jong-un's accomplishments in 2024, a spring shoe exhibition, the return of wrestlers from an Asian championship, a delegation departing for an international conference in Uzbekistan, and a cooking festival commemorating Kim Il-sung's birthday. No information is exceptionally useful.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250404147800504",
-      "date": "Fri, 4 Apr 2025 17:13:55 +0900"
     }
   ]
 }
