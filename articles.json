@@ -1,22 +1,88 @@
 {
   "articles": [
     {
-      "originalTitle": "北화성지구 3단계 준공…김정은 \"현대적 살림집 이제야 안겨 미안\"(종합)",
-      "translatedTitle": "North Korea's Hwasong District Phase 3 Completion...Kim Jong-un \"Sorry I'm only now providing modern housing\" (Comprehensive)",
+      "originalTitle": "[북한단신] 평안남도에 학교·유치원 90여개 신축·개축",
+      "translatedTitle": "North Korea Briefs: Approximately 90 schools and kindergartens newly built or renovated in South Pyongan Province",
       "summary": {
-        "quote": "Sorry I'm only now providing modern housing, seeing the citizens overflowing with emotion and joy today, I am even more determined to take on more work for the people",
-        "text": "Kim Jong-un attended the completion ceremony of the third phase of the Hwasong District, a 'new town' project in Pyongyang, emphasizing his focus on improving people's lives, particularly as housing construction continues. The project which began in 2021 with a plan to build 50,000 homes in Pyongyang is a high-priority issue for Kim and is seen as a move to consolidate the regime and appease public sentiment by timing the completion with Kim Il-sung's birthday. Kim's commitment to housing is key, and her analysis of the materials and architectural styles used, as well as the socio-economic impact of new housing on Pyongyang residents, could be enhanced by this report.",
+        "quote": "Approximately 90 schools, branch schools, and kindergartens are being newly constructed or renovated in Pyongsong City, Taedong County, Mundok County, and Sukchon County, South Pyongan Province",
+        "text": "This article reports on the construction and renovation of schools and kindergartens in South Pyongan Province, and discusses meetings with Russian counterparts. It is generally expected for the area and not something she'd focus on this week. Notably, the scale of construction, while presented as a positive development, could indicate a need to reinforce ideological education among younger generations. The scale is impressive however.",
+        "interestLevel": "⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416140200504",
+      "date": "Wed, 16 Apr 2025 17:09:33 +0900"
+    },
+    {
+      "originalTitle": "북방한계선과 불과 1.8㎞…동해안 최북단 황금어장 17일 개장",
+      "translatedTitle": "Only 1.8km from the Northern Limit Line...The northernmost golden fishing ground on the East Sea opens on the 17th",
+      "summary": {
+        "quote": "The Jodo fishing ground is the largest golden fishing ground located between the Northern Limit Line (NLL) and the fishing limit line, where various species such as giant octopus, snow crab, sea cucumber, and seaweed are caught.",
+        "text": "This article discusses the opening of the Jodo fishing ground, located near the NLL. It highlights the potential for both economic benefit and heightened tensions with North Korea, potentially risking the safety of the fishermen. The article also mentions the change in inspection procedure and other minor details.",
         "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416136200062",
+      "date": "Wed, 16 Apr 2025 16:39:10 +0900"
+    },
+    {
+      "originalTitle": "강원 DMZ 평화의 길 힐링의 문 열린다…접경지역 5개 코스 개방(종합)",
+      "translatedTitle": "Gangwon DMZ Peace Trail Healing Door Opens…5 Border Area Courses Open (Comprehensive)",
+      "summary": {
+        "quote": "The theme route is a path created to experience the value of freedom, security, and peace by utilizing the ecological, cultural, and historical resources of the DMZ and the area north of the Civilian Control Line.",
+        "text": "This article announces the opening of five DMZ Peace Trail theme routes in Gangwon Province. The routes are designed to showcase the region's ecological, cultural, and historical resources. This may be relevant if the tours are also taken by visitors from North Korea.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416076051062",
+      "date": "Wed, 16 Apr 2025 15:04:07 +0900"
+    },
+    {
+      "originalTitle": "국회서 25일 판문점선언 7주년 기념식 개최…文 기념사",
+      "translatedTitle": "Panmunjom Declaration 7th Anniversary Ceremony to be held in the National Assembly on the 25th…Moon Jae-in to deliver commemorative address",
+      "summary": {
+        "quote": "Former President Moon will be present in person to deliver a commemorative address.",
+        "text": "This article reports on the upcoming 7th anniversary ceremony of the Panmunjom Declaration. The article may be significant as it highlights the continued engagement of the previous administration in inter-Korean affairs. The planned address by Moon Jae-in could offer insight into alternative approaches to inter-Korean relations.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416104200001",
+      "date": "Wed, 16 Apr 2025 14:34:48 +0900"
+    },
+    {
+      "originalTitle": "강원 DMZ 평화의 길 힐링의 문 열린다…접경지역 5개 코스 개방",
+      "translatedTitle": "Gangwon DMZ Peace Trail Healing Door Opens…5 Border Area Courses Open",
+      "summary": {
+        "quote": "The theme route is a path created to experience the value of freedom, security, and peace by utilizing the ecological, cultural, and historical resources of the DMZ and the area north of the Civilian Control Line.",
+        "text": "This article announces the opening of five DMZ Peace Trail theme routes in Gangwon Province. The routes are designed to showcase the region's ecological, cultural, and historical resources. This may be relevant if the tours are also taken by visitors from North Korea, and she may have seen a previous version of this.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416076000062",
+      "date": "Wed, 16 Apr 2025 11:26:36 +0900"
+    },
+    {
+      "originalTitle": "\"핵실험뒤 폭발사고라 하면 은폐 가능\"…핵무장 찬성 학자 주장",
+      "translatedTitle": "\"If it's a explosion accident after a nuclear test, it can be concealed\"…Claim by scholar supporting nuclear armament",
+      "summary": {
+        "quote": "And if a small artificial earthquake occurs due to a nuclear test, the fact that it was a nuclear test could be concealed by announcing that an explosion accident occurred at an underground bomb storage facility in the forward area.",
+        "text": "This article reports on a South Korean scholar's controversial claim that a nuclear test could be disguised as an accidental explosion in the forward area. The claims are described as irresponsible and difficult to believe. Of major interest, the intersection of nuclear armament and internal ideological messaging is something she would pay attention to.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250416043800504",
+      "date": "Wed, 16 Apr 2025 10:34:47 +0900"
+    },
+    {
+      "originalTitle": "北화성지구 3단계 준공…김정은 \"현대적 살림집 이제야 안겨 미안\"(종합)",
+      "translatedTitle": "North Korea Completes 3rd Phase of Hwasong District…Kim Jong-un 'Sorry for only now providing modern homes' (Comprehensive)",
+      "summary": {
+        "quote": "Kim Jong-un said, 'I am sorry for only now providing such modern homes. Seeing the faces of citizens filled with emotion and joy today, I am even more determined to take on more work for the people.'",
+        "text": "This article reports on the completion of the third phase of the Hwasong District housing project in Pyongyang. Kim Jong-un attended the completion ceremony. This indicates a focus on domestic achievements amidst international sanctions and food insecurity. The continued propaganda focus on providing housing for the population is telling and she would take note of the gendered nature of domesticity being presented.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416010751504",
       "date": "Wed, 16 Apr 2025 10:16:23 +0900"
     },
     {
       "originalTitle": "김정은, 태양절 금수산궁전 참배 3년째 불참…간부만 찾아",
-      "translatedTitle": "Kim Jong-un Absent from Kumsusan Palace of the Sun Pilgrimage for 3rd Year...Only Senior Officials Visit",
+      "translatedTitle": "Kim Jong-un, Absent from Kumsusan Palace on Kim Il-sung's Birthday for the 3rd Year…Only Cadres Visit",
       "summary": {
-        "quote": "Kim Jong-un, who had always visited the Kumsusan Palace of the Sun with high-ranking officials on the Day of the Sun since taking the supreme leadership position in 2012, did not attend for the first time in 2020 when the novel coronavirus infection (COVID-19) spread.",
-        "text": "Kim Jong-un did not visit the Kumsusan Palace of the Sun, where Kim Il-sung's body is enshrined, on Kim Il-sung's birthday (Day of the Sun) for the third year in a row. While he resumed visits in 2021 and 2022, this absence follows a trend of reduced visits to the Palace for major anniversaries, suggesting a shift towards downplaying ancestor worship and establishing his own independent authority. Kim's pattern of attendance at the Kumsusan Palace is a useful proxy for examining subtle shifts in how Kim Jong-un wants to be viewed relative to his predecessors.",
+        "quote": "Kim Jong-un has not visited the Kumsusan Palace of the Sun, where Kim Il-sung's body is enshrined, on the 113th anniversary of Kim Il-sung's birthday (Day of the Sun, April 15).",
+        "text": "This article notes that Kim Jong-un did not visit the Kumsusan Palace of the Sun on Kim Il-sung's birthday for the third consecutive year. This is a part of the ongoing trend of diminishing the emphasis on his predecessors while bolstering his own authority. Still, the fact that he is honoring the birthdate at all and not going further to diminish it is worth noting.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416017600504",
@@ -24,10 +90,10 @@
     },
     {
       "originalTitle": "[북한날씨] 전 지역 가끔 구름 많음…평양 낮 22도",
-      "translatedTitle": "[North Korea Weather] Mostly Cloudy Nationwide...Pyongyang High of 22 Degrees",
+      "translatedTitle": "[North Korea Weather] Mostly Cloudy Throughout…Pyongyang High of 22 Degrees",
       "summary": {
-        "quote": "Mostly cloudy, 22, 20",
-        "text": "This article provides a weather forecast for North Korea, predicting mostly cloudy conditions across the country with a high of 22 degrees Celsius in Pyongyang. While seemingly trivial, weather patterns can be useful in understanding agricultural conditions and potential food security issues, as well as the logistical challenges faced by North Korean society. Details about regional variations in precipitation, as it might correlate to agricultural zones, would make the article more directly relevant.",
+        "quote": "North Korea is expected to be mostly cloudy throughout all regions on the 16th, according to the Korea Meteorological Administration.",
+        "text": "This article provides a weather forecast for North Korea. Pyongyang will experience a high of 22 degrees Celsius. She will not be very interested.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416017800504",
@@ -35,32 +101,32 @@
     },
     {
       "originalTitle": "北, 김일성 생일에 '뉴타운' 화성지구 3단계 준공…김정은 참석",
-      "translatedTitle": "North Korea Celebrates Kim Il-sung's Birthday with Completion of Hwasong District Phase 3 'New Town'...Kim Jong-un Attends",
+      "translatedTitle": "North Korea Marks Kim Il-sung's Birthday with Completion of 'New Town' Hwasong District Phase 3…Kim Jong-un Attends",
       "summary": {
-        "quote": "Sorry I'm only now providing modern housing, seeing the citizens overflowing with emotion and joy today, I am even more determined to take on more work for the people",
-        "text": "Kim Jong-un's attendance at the completion ceremony of the Hwasong District Phase 3 aligns with the DPRK's efforts to improve living standards and showcase the regime's achievements on significant dates, especially Kim Il-Sung's birthday. The timing of the completion and Kim's presence are deliberate, meant to boost morale and emphasize the continuity of leadership. The article highlights the importance of housing projects in North Korean propaganda and their connection to the Kim family legacy, which could add value to ongoing research of how domestic policies reflect external narratives about NK and the US.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "Kim Jong-un said, 'I am sorry for only now providing such modern homes. Seeing the faces of citizens filled with emotion and joy today, I am even more determined to take on more work for the people.'",
+        "text": "This article reports on Kim Jong-un's attendance at the completion ceremony of the third phase of the Hwasong District housing project in Pyongyang on Kim Il-sung's birthday. This is strategic timing designed to maximize the impact on regime cohesion and public sentiment, as propaganda for the area is very common and would usually be dismissed, but the recent trend of housing is notable.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416010700504",
       "date": "Wed, 16 Apr 2025 06:41:17 +0900"
     },
     {
       "originalTitle": "러 \"전승절 열병식에 20여국 정상 모일 것\"…김정은도 올까",
-      "translatedTitle": "Russia Says About 20 National Leaders Will Gather at Victory Day Parade...Will Kim Jong-un Come Too?",
+      "translatedTitle": "Russia Says 'Around 20 National Leaders Will Gather for Victory Day Parade'...Will Kim Jong-un Come Too?",
       "summary": {
-        "quote": "We are ready to accept anyone who wants to celebrate this very important day with us",
-        "text": "Russia announced that approximately 20 national leaders will attend the Victory Day parade in Moscow on May 9th, commemorating the Soviet victory over Nazi Germany in World War II. With North Korea's strong support for Russia's actions in Ukraine, speculation arises whether Kim Jong-un will attend the event following his invitation by Vladimir Putin. Kim's potential attendance is discussed in the context of strengthening ties between Russia, China, and North Korea, and the implications for signaling resistance against the West. This article has great value for her to further evaluate whether or not Russia and North Korea are in alignment.",
-        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
+        "quote": "Russia announced on the 15th (local time) that around 20 national leaders will attend the parade commemorating victory in World War II, which will be held in Moscow on May 9th.",
+        "text": "This article discusses the possibility of Kim Jong-un attending Russia's Victory Day parade. It notes Russia's strong support for North Korea, raising questions about Kim's potential attendance. Whether or not China's Xi Jinping will also attend is unclear, but the chance for multiple world leaders may be of use.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415174500080",
       "date": "Tue, 15 Apr 2025 23:33:33 +0900"
     },
     {
       "originalTitle": "로이터 \"러에 20개월간 선박으로 북한 포탄 수백만발 전달\"",
-      "translatedTitle": "Reuters: North Korea Delivered Millions of Artillery Shells to Russia by Ship over 20 Months",
+      "translatedTitle": "Reuters: 'Millions of North Korean Shells Delivered to Russia by Ship Over 20 Months'",
       "summary": {
-        "quote": "Without Kim Jong-un's support, Vladimir Putin would not have been able to wage war in Ukraine",
-        "text": "Reuters reports that North Korea has supplied Russia with millions of artillery shells via ships over 20 months to aid its war in Ukraine, with some reports suggesting DPRK is fulfilling 70% of Russian artillery needs on the frontlines. This large-scale arms transfer, combined with potential DPRK troop deployments, is said to be giving the Russian military a crucial advantage. This intelligence would be an important data point in assessing the DPRK's contribution to the conflict and the degree of military cooperation between Pyongyang and Moscow, especially regarding potential gender dynamics in the military support and logistical networks.",
+        "quote": "Millions of shells produced by North Korea have moved to the front lines of the Ukrainian battlefield through large-scale transportation using ships and trains for about 20 months from September 2023 to the present.",
+        "text": "This article, based on a Reuters report, details how North Korea has supplied millions of artillery shells to Russia over the past 20 months. It reveals the logistics and scale of the operation. The article mentions a North Korean military contribution combined with estimates of thousands of North Korean troops, which is particularly notable and potentially impactful to the war.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415169800009",
@@ -68,10 +134,10 @@
     },
     {
       "originalTitle": "[북한단신] 주북 외교단, 김정은에 김일성 생일축하 꽃바구니·편지",
-      "translatedTitle": "[North Korea News in Brief] Diplomatic Corps in North Korea Sends Flower Baskets and Letters to Kim Jong-un Congratulating Kim Il-sung's Birthday",
+      "translatedTitle": "[North Korea Briefs] Diplomatic Corps in North Korea Sends Flower Baskets and Letters to Kim Jong-un Congratulating Kim Il-sung's Birthday",
       "summary": {
-        "quote": "The diplomatic corps stationed in North Korea sent flower baskets and congratulatory letters to State Affairs Commission Chairman Kim Jong-un to mark the birthday of President Kim Il-sung",
-        "text": "This brief article reports on diplomatic activities surrounding Kim Il-sung's birthday, including the sending of congratulatory flower baskets and letters to Kim Jong-un from the diplomatic corps stationed in North Korea. Mentions the opening of a noodle factory and shoe factory in Sinuiju as well as a delegation from the Russian ruling party arriving in Pyongyang. The significance of diplomatic engagement, particularly the level of representation and types of messages conveyed, are relevant for understanding North Korea's relations with specific nations.",
+        "quote": "The diplomatic corps stationed in North Korea sent flower baskets and congratulatory letters to State Affairs Commission Chairman Kim Jong-un to celebrate the birthday of Kim Il-sung.",
+        "text": "This article reports on the diplomatic gestures made by foreign embassies in North Korea on Kim Il-sung's birthday. It may be tangentially relevant depending on which embassies sent messages, and any shifts in which are present is to be noted.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415141900504",
@@ -79,10 +145,10 @@
     },
     {
       "originalTitle": "6월 개장 앞둔 北원산 갈마관광지구…\"완공 임박\"",
-      "translatedTitle": "North Korea's Wonsan-Kalma Tourist Zone Set to Open in June...\"Completion Imminent\"",
+      "translatedTitle": "North Korea's Wonsan Kalma Tourist Zone, Opening in June…'Completion Imminent'",
       "summary": {
-        "quote": "Satellite images show that the resort construction project appears to be rapidly approaching completion",
-        "text": "Satellite imagery suggests that the completion of North Korea's large-scale Wonsan-Kalma coastal tourist zone is imminent, with an expected opening in June of 2025. The project has been ongoing since 2014 with multiple delays due to international sanctions and the COVID-19 pandemic, which resulted in construction being temporarily suspended. The area is set to open in June, and seeks to attract Russian tourism as well. The potential economic effects and possible future trends will be of use to further the study.",
+        "quote": "Satellite images show that the resort construction project appears to be rapidly entering its final stages.",
+        "text": "This article discusses the imminent completion of the Wonsan Kalma tourist zone in North Korea. It mentions the construction of new facilities, including a water park and a performance venue. This may be interesting as the target audience is Russians.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415120600009",
@@ -90,21 +156,21 @@
     },
     {
       "originalTitle": "北, 김일성 생일에 '대 이은 충성' 강조…\"김정은 사상 관철\"(종합)",
-      "translatedTitle": "North Korea Emphasizes 'Loyalty Through Generations' on Kim Il-sung's Birthday...\"Thoroughly Implement Kim Jong-un's Ideology\" (Comprehensive)",
+      "translatedTitle": "North Korea Emphasizes 'Succession of Loyalty' on Kim Il-sung's Birthday…'Thoroughly Implement Kim Jong-un's Ideology' (Comprehensive)",
       "summary": {
-        "quote": "The Juche ideology founded by the great leader is constantly developed and enriched by the extraordinary ideological and theoretical activities of the respected Comrade Kim Jong-un, an outstanding revolutionary genius",
-        "text": "On Kim Il-sung's birthday, North Korea emphasized loyalty to Kim Jong-un and the Kim family lineage. The Rodong Sinmun asserted that Kim Jong-un's ideology must be thoroughly implemented, portraying it as a continuation and advancement of Kim Il-sung's Juche ideology. The article underscores the increasing emphasis on Kim Jong-un's leadership and ideology within North Korean propaganda, and the continued attempts to associate him with the legacies of his predecessors.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "The Rodong Sinmun, the organ of the Workers' Party, asserted that 'the Juche ideology founded by the Great Leader (Kim Il-sung) is being constantly developed and enriched by the extraordinary ideological and theoretical activities of the respected Comrade Kim Jong-un, an outstanding revolutionary genius.'",
+        "text": "This article highlights North Korea's emphasis on the succession of loyalty to Kim Jong-un on Kim Il-sung's birthday. This shows the importance of maintaining ideological purity and unity under Kim Jong-un's leadership. The juxtaposition of praising Kim Il-sung and promoting Kim Jong-un's ideology may reveal the ongoing power dynamics within the regime.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415013251504",
       "date": "Tue, 15 Apr 2025 11:04:58 +0900"
     },
     {
       "originalTitle": "[북한날씨] 대체로 흐림…평북과 함경도에 비 또는 눈",
-      "translatedTitle": "[North Korea Weather] Mostly Cloudy...Rain or Snow in North Pyongan and Hamgyong Provinces",
+      "translatedTitle": "[North Korea Weather] Mostly Cloudy…Rain or Snow in North Pyongan and Hamgyong Provinces",
       "summary": {
-        "quote": "North Korea will be mostly cloudy in all areas on the 15th, the Korea Meteorological Administration forecast",
-        "text": "This article provides a weather forecast for North Korea, predicting mostly cloudy conditions with rain or snow in North Pyongan and Hamgyong provinces. As with the other weather report, specifics concerning agricultural conditions and any indicators that would point towards natural disasters that impact the Korean People's Army would increase the value of this article.",
+        "quote": "North Korea is forecast to be mostly cloudy throughout all regions on the 15th, according to the Korea Meteorological Administration.",
+        "text": "This article provides a weather forecast for North Korea. Rain or snow is expected in North Pyongan and Hamgyong Provinces. She will not be very interested.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415013500504",
@@ -112,11 +178,11 @@
     },
     {
       "originalTitle": "北, 김일성 생일에 '대 이은 충성' 강조…\"김정은 사상 관철\"",
-      "translatedTitle": "North Korea Emphasizes 'Loyalty Through Generations' on Kim Il-sung's Birthday...\"Thoroughly Implement Kim Jong-un's Ideology\"",
+      "translatedTitle": "North Korea Emphasizes 'Succession of Loyalty' on Kim Il-sung's Birthday…'Thoroughly Implement Kim Jong-un's Ideology'",
       "summary": {
-        "quote": "The Juche ideology founded by the great leader is constantly developed and enriched by the extraordinary ideological and theoretical activities of the respected Comrade Kim Jong-un, an outstanding revolutionary genius",
-        "text": "On Kim Il-sung's birthday, North Korea emphasized loyalty to Kim Jong-un and the Kim family lineage. The Rodong Sinmun asserted that Kim Jong-un's ideology must be thoroughly implemented, portraying it as a continuation and advancement of Kim Il-sung's Juche ideology. The article underscores the increasing emphasis on Kim Jong-un's leadership and ideology within North Korean propaganda, and the continued attempts to associate him with the legacies of his predecessors.",
-        "interestLevel": "⭐️⭐️⭐️"
+        "quote": "The Rodong Sinmun, the organ of the Workers' Party, asserted that 'the Juche ideology founded by the Great Leader (Kim Il-sung) is being constantly developed and enriched by the extraordinary ideological and theoretical activities of the respected Comrade Kim Jong-un, an outstanding revolutionary genius.'",
+        "text": "This article highlights North Korea's emphasis on the succession of loyalty to Kim Jong-un on Kim Il-sung's birthday. This shows the importance of maintaining ideological purity and unity under Kim Jong-un's leadership. The juxtaposition of praising Kim Il-sung and promoting Kim Jong-un's ideology may reveal the ongoing power dynamics within the regime.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250415013200504",
       "date": "Tue, 15 Apr 2025 06:57:41 +0900"
@@ -125,19 +191,19 @@
       "originalTitle": "북중러 정상, 내달 모스크바서 만나나…\"시진핑은 꺼릴 가능성\"",
       "translatedTitle": "Will the Leaders of North Korea, China, and Russia Meet in Moscow Next Month?...Xi Jinping May Be Reluctant",
       "summary": {
-        "quote": "Some experts believe that Kim Jong-un is likely to attend the military parade with President Xi Jinping and Vladimir Putin, and in this case, the leaders of North Korea, China and Russia will gather in one place for the first time to send a strong signal of resistance against the United States and the West.",
-        "text": "The possibility of a Moscow meeting involving Kim Jong-un, Xi Jinping, and Vladimir Putin during Russia's Victory Day celebrations is being discussed, but some analysts doubt that Xi Jinping will attend. Analysts are weighing both the potential benefits of such a meeting, particularly the signal of solidarity against the West, and the potential drawbacks, including China's unease about North Korea's nuclear ambitions and Kim's lack of experience in multilateral diplomacy. The article explores the complex dynamics between the three nations and the factors that could influence their decision to participate in the Moscow event.",
-        "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
+        "quote": "Some experts believe that Kim Jong-un may attend the parade with Xi Jinping and Vladimir Putin, in which case the leaders of the three countries would meet in one place for the first time, sending a strong signal of resistance against the United States and the West.",
+        "text": "This article explores the possibility of a trilateral meeting between the leaders of North Korea, China, and Russia in Moscow for Victory Day. It examines the factors that could facilitate or hinder such a meeting, including the relationship between the leaders of the three countries and logistical difficulties.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250414140100009",
       "date": "Mon, 14 Apr 2025 17:38:48 +0900"
     },
     {
       "originalTitle": "[북한단신] 폭우·홍수 조기경보체계 전국 도입 추진",
-      "translatedTitle": "[North Korea News in Brief] Push to Introduce Nationwide Early Warning System for Heavy Rain and Floods",
+      "translatedTitle": "[North Korea Briefs] Push for Nationwide Introduction of Early Warning System for Heavy Rain and Floods",
       "summary": {
-        "quote": "The nationwide introduction project of the early warning system for heavy rain and floods is underway",
-        "text": "This article reports on North Korea's efforts to implement a nationwide early warning system for heavy rain and floods, with a pilot project already tested in Songchon County, South Pyongan Province. Also mentioned is PM Park Tae-sung's on-site inspection of people's economic departments, an exhibition showcasing Pyongyang's transformation, and an opening ceremony for a flower exhibition. While these might seem basic, knowing the scale and specifics of each of these initiatives could potentially reveal what policies are truly important to the elite and what struggles exist in the NK system.",
+        "quote": "The project to introduce an early warning system for heavy rain and floods nationwide is underway, reported the Choson Sinbo, the organ of the General Association of Korean Residents in Japan (Chongryon), on the 14th.",
+        "text": "This article reports on North Korea's efforts to implement a nationwide early warning system for heavy rain and floods. It notes the pilot program in Songchon County, South Pyongan Province. This is an ongoing point of propaganda.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250414136800504",
@@ -145,80 +211,14 @@
     },
     {
       "originalTitle": "부활절 남북 공동기도문 발표 7년째 무산",
-      "translatedTitle": "Joint Easter Prayer Between South and North Korea Fails for 7th Year",
+      "translatedTitle": "Joint Easter Prayer Between South and North Korea Canceled for the 7th Year",
       "summary": {
-        "quote": "The Council of Churches in Korea (NCCK) announced a draft of an Easter prayer written solely by people in the South.",
-        "text": "Due to strained inter-Korean relations, the joint Easter prayer between the NCCK and the Korean Christian Federation (KCF) has failed to materialize for the seventh consecutive year. The NCCK released a South Korean draft prayer, acknowledging the difficulty in communicating with the North. Considering her interest in women and gender issues, it is important to note women's groups in NK society and their potential connections and ties to religious groups.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "\"It is difficult to communicate with the North this year as well,\" explained an official from the Reconciliation and Unification Committee.",
+        "text": "This article reports that the joint Easter prayer between South and North Korea has been canceled for the seventh consecutive year. The news may be notable as it highlights the continued breakdown in inter-Korean relations.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250414135500005",
       "date": "Mon, 14 Apr 2025 17:08:11 +0900"
-    },
-    {
-      "originalTitle": "[북한날씨] 전 지역 비 또는 눈",
-      "translatedTitle": "[North Korea Weather] Rain or Snow Nationwide",
-      "summary": {
-        "quote": "North Korea will have rain or snow in all areas on the 14th, the Korea Meteorological Administration forecast",
-        "text": "The article reports that the Korean Meterological Administration forecase is calling for rain or snow throughout North Korea. This is another seemingly unimportant weather report, however, if this information pointed to natural disaster or an indicator of agricultural disruption it would be of increased value. Furthermore, weather reports like this have been used as a means of secret communication between parties in the past, though that angle may be less likely in this case.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250414007400504",
-      "date": "Mon, 14 Apr 2025 06:37:33 +0900"
-    },
-    {
-      "originalTitle": "김정은, 김일성 생일 맞아 재일 교포에 장학금 28억원 지원",
-      "translatedTitle": "Kim Jong-un Supports ₩2.8 Billion in Scholarships for Pro-North Korean Residents of Japan",
-      "summary": {
-        "quote": "Chairman Kim Jong-un sent educational subsidies and scholarships worth 287,020,000 yen (approximately 2.8 billion won) to the pro-North Korean General Association of Korean Residents in Japan (Chongryon) to mark President Kim Il-sung's birthday (April 15)",
-        "text": "Kim Jong-un provided approximately 2.8 billion won in scholarships to the Chongryon, emphasizing the importance of supporting the democratic national education of pro-North Korean residents in Japan. Since taking power, Kim has consistently provided scholarships to Chongryon, and in 2023, DPRK eased restrictions to allow more representatives from Chongryon into the country. The DPRK clearly values the relationship and seeks to use the funds as a means to foster loyalty with the younger generation in the organization.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250414007000504",
-      "date": "Mon, 14 Apr 2025 06:35:59 +0900"
-    },
-    {
-      "originalTitle": "[북한단신] 해외단체·동포조직, 김일성 생일 축하 꽃바구니",
-      "translatedTitle": "[North Korea News in Brief] Overseas Organizations and Compatriot Groups Send Flower Baskets to Celebrate Kim Il-sung's Birthday",
-      "summary": {
-        "quote": "Overseas compatriot organizations, including the Central Standing Committee of the General Association of Korean Residents in Japan and the General Federation of Korean Residents in China, laid flower baskets at the statues of Kim Il-sung and Kim Jong-il on Mansudae Hill on the 12th to mark the Day of the Sun (Kim Il-sung's birthday, April 15)",
-        "text": "This article provides a quick rundown of how overseas organizations are celebrating Kim Il-Sung's birthday with flowers laid at the statues of Kim Il-Sung and Kim Jong-Il on Mansudae Hill. Mentions the North Korean soccer team advancing to the quarterfinals as well. These small details are valuable for tracking the global network of support and allegiance to the Kim regime and Juche Ideology.",
-        "interestLevel": "⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250413038600504",
-      "date": "Sun, 13 Apr 2025 17:12:33 +0900"
-    },
-    {
-      "originalTitle": "[북한날씨] 전 지역 비 또는 눈…\"센 바람 경보\"",
-      "translatedTitle": "[North Korea Weather] Rain or Snow Nationwide...\"Strong Wind Warning\"",
-      "summary": {
-        "quote": "Rain or snow is expected in some areas across the country",
-        "text": "The DPRK Meterological Service reported rain or snow across the country with warnings about the wind, including a gale warning for some parts of the country. Details are given for some regions about how high the windspeeds are expected to reach. Any details related to weather patterns or seasonal events are worth noting, even for short-term analyses.",
-        "interestLevel": "⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250413003900504",
-      "date": "Sun, 13 Apr 2025 06:41:11 +0900"
-    },
-    {
-      "originalTitle": "[북한단신] 나이지리아·몽골·라오스 정상 김일성 생일 축하 꽃바구니",
-      "translatedTitle": "[North Korea News in Brief] Presidents of Nigeria, Mongolia, and Laos Send Flower Baskets to Celebrate Kim Il-sung's Birthday",
-      "summary": {
-        "quote": "Ahead of President Kim Il-sung's birthday (April 15), Nigerian President Bola Tinubu and Laotian President Lun Sisulit each sent flower baskets to State Affairs Commission Chairman Kim Jong-un on the 11th",
-        "text": "This short report summarizes that a handful of international leaders sent flowers and other gifts to Kim Jong-Un to celebrate Kim Il-Sung's birthday. Other news reported included a Spring Clothing Exhibition in Pyongyang and the holding of a National Sports Science Exhibition in the education sector. The information is of interest for tracking international relations and internal cultural events.",
-        "interestLevel": "⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250412041400504",
-      "date": "Sat, 12 Apr 2025 17:06:33 +0900"
-    },
-    {
-      "originalTitle": "\"北 '최룡해 조직' 확대로 견제 실종…김정은 체제 안정에 변수\"",
-      "translatedTitle": "\"'Choe Ryong-hae Organization' Expansion in North Korea Leads to Disappearance of Checks and Balances...Variable in Kim Jong-un Regime Stability\"",
-      "summary": {
-        "quote": "With the expansion of the influence of the 'unofficial' elite organization led by North Korea's Supreme People's Assembly Standing Committee Chairman Choe Ryong-hae and the weakening of the check function, an analysis has been made that it could become a variable in the stability of the Kim Jong-un regime.",
-        "text": "A report suggests that the growing influence of an 'unofficial' elite network led by Choe Ryong-hae and the erosion of checks and balances could pose risks to the stability of Kim Jong-un's regime. It outlines how Choe's allies have secured key positions in the party, government, and military, potentially diminishing internal checks on power. This report also highlights the erosion of internal power dynamics and the checks and balances within the North Korean regime, potentially impacting the long-term stability of Kim Jong-un's leadership.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250412021500504",
-      "date": "Sat, 12 Apr 2025 10:05:01 +0900"
     }
   ]
 }
