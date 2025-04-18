@@ -1,22 +1,66 @@
 {
   "articles": [
     {
-      "originalTitle": "러 블라디-北 나선 여객열차 전승절 전날 운행 시작",
-      "translatedTitle": "Russia-North Korea Rason Passenger Train Starts Operation the Day Before Victory Day",
+      "originalTitle": "尹파면에도…통일부, '8·15 독트린' 상세 수록 통일교재 발간",
+      "translatedTitle": "Despite Yoon's Impeachment... Ministry of Unification Publishes Unification Textbook Containing '8·15 Doctrine' in Detail",
       "summary": {
-        "quote": "Russian tourists can visit the monuments of Soviet soldiers who lost their lives fighting the Japanese army during the liberation of North Korea (1945) on the eve of Victory Day (May 9)",
-        "text": "A new passenger train service will connect Vladivostok, Russia, and Rason (Najin), North Korea. This service aims to allow Russian tourists to visit monuments commemorating Soviet soldiers who died during the liberation of North Korea from Japan in 1945, right before Victory Day. The article also mentions existing regular flights between Vladivostok and Pyongyang, as well as a railway line between Russia's Khasan station and North Korea's Tumen River station.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "The Ministry of Unification's National Institute for Unification Education published 'Understanding Unification Issues 2025' and 'Understanding North Korea 2025' as basic unification education textbooks.",
+        "text": "Despite the impeachment of former President Yoon Seok-yeol, the Ministry of Unification has published new unification textbooks that heavily feature Yoon's North Korea and unification policies, including the '8·15 Unification Doctrine'. The textbooks, intended as guidelines for unification education, detail the Yoon administration's policies over 10 pages and dedicate 4 pages to the '8·15 Unification Doctrine,' even though the policy has not been actively pursued and is arguably obsolete. This raises concerns about the appropriateness of including such content in educational materials for schools, given the changed political context and lack of North Korean engagement.",
+        "interestLevel": "⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250417135300504",
+      "date": "Fri, 18 Apr 2025 10:00:01 +0900"
+    },
+    {
+      "originalTitle": "\"北탄도미사일, 러 기술지원으로 성능개선…우크라 요격 어려워져\"",
+      "translatedTitle": "North Korean Ballistic Missiles Improved with Russian Technical Support... Ukrainian Interception Becomes More Difficult",
+      "summary": {
+        "quote": "North Korean ballistic missiles provided to Russia have been improved with Russian technical support, making it increasingly difficult for Ukrainian air defenses to intercept them.",
+        "text": "According to military experts, North Korean ballistic missiles supplied to Russia have undergone significant improvements due to Russian technical assistance, enhancing their performance and posing greater challenges to Ukraine's air defense systems. These improvements include increased accuracy and complex flight paths that are difficult to intercept. The analysis of recent missile attacks on Kyiv revealed that multiple missiles precisely targeted a single point, indicating enhanced precision possibly due to the use of decoys disrupting radar calculations. This development suggests a concerning escalation in North Korea's military support for Russia and highlights the growing threat to Ukraine.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250418035800009",
+      "date": "Fri, 18 Apr 2025 09:47:43 +0900"
+    },
+    {
+      "originalTitle": "트럼프 \"해산물 관련 외국 강제노동 검토\" 지시…北中 겨냥한듯",
+      "translatedTitle": "Trump Orders Review of Foreign Forced Labor Related to Seafood... Seemingly Targeting North Korea and China",
+      "summary": {
+        "quote": "President Trump ordered the development of a strategy to address foreign 'unfair practices' and non-tariff barriers related to seafood trade.",
+        "text": "President Trump has directed the USTR to investigate trade practices in seafood industries, including the use of forced labor, potentially targeting North Korean laborers working on Chinese fishing vessels. Reports have detailed instances of 'slave labor' conditions endured by North Korean workers sent to Chinese fishing fleets to earn foreign currency. This action could signal a greater willingness to address the exploitation of North Korean workers and the impact of these labor practices on international trade, which aligns with her interest in the intersection of North Korean labor and international relations.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250418016400071",
+      "date": "Fri, 18 Apr 2025 08:00:30 +0900"
+    },
+    {
+      "originalTitle": "[북한날씨] 오후까지 평안도·함경도에 가끔 비…\"센바람 주의경보\"",
+      "translatedTitle": "[North Korea Weather] Occasional Rain in Pyongyang and Hamgyong Provinces Until Afternoon... 'Strong Wind Alert'",
+      "summary": {
+        "quote": "North Korea's weather forecast for [today] predicts generally cloudy conditions across the country, with occasional rain or snow in Pyongyang and Hamgyong provinces until the afternoon.",
+        "text": "North Korea's weather forecast predicts cloudy conditions across the country with rain or snow in some provinces and a strong wind alert for parts of Hamgyong and Yanggang provinces, forecasting winds of 10-15 m/s.  This is unlikely to be of much interest.",
+        "interestLevel": "⭐️"
+      },
+      "url": "https://www.yna.co.kr/view/AKR20250418009900504",
+      "date": "Fri, 18 Apr 2025 06:34:51 +0900"
+    },
+    {
+      "originalTitle": "러 블라디-北 나선 여객열차 전승절 전날 운행 시작",
+      "translatedTitle": "Russia-North Korea Passenger Train Service Between Vladivostok and Rason to Begin the Day Before Victory Day",
+      "summary": {
+        "quote": "A new passenger train service between Vladivostok in Russia's Primorsky Krai and Rason (Najin) in North Korea will begin operation on May 8th.",
+        "text": "A new passenger train service will start running between Vladivostok and Rason, North Korea, on May 8th, allowing Russian tourists to visit monuments commemorating Soviet soldiers who died during the liberation of Korea from Japan. This new route signifies an expansion of transportation links between Russia and North Korea, further facilitating cultural and economic exchange and potentially easing travel for individuals involved in illicit activities or diplomatic missions.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417174100080",
       "date": "Thu, 17 Apr 2025 20:29:14 +0900"
     },
     {
       "originalTitle": "[영상] 북한군 다음 목표는?…\"러, 우크라이나 영토에 배치 계획\"",
-      "translatedTitle": "[Video] What is the Next Target of the North Korean Army?...'Russia Plans to Deploy Troops to Ukrainian Territory'",
+      "translatedTitle": "[Video] What is the Next Target of the North Korean Army?... \"Russia Plans Deployment in Ukrainian Territory\"",
       "summary": {
-        "quote": "Russia plans to use North Korean troops in the war on Ukrainian territory",
-        "text": "A Ukrainian official claims that North Korean troops, who were involved in pushing back Ukrainian forces in Russia's Kursk region, are preparing to enter mainland Ukraine. The official suggests Russia might claim the areas where North Korean troops are deployed as 'Russian land' under Russian law, similar to how they conducted the operation in Kursk, wearing Russian military uniforms. The deployment is hypothesized as a possible bargaining chip for North Korea to gain further support from Russia for its nuclear program, and demonstrates an escalation in NK's involvement.",
+        "quote": "The head of the Center for Countering Disinformation under the National Security and Defense Council of Ukraine claimed that Russia plans to use North Korean troops in the war on Ukrainian territory.",
+        "text": "Claims have emerged that North Korean troops, who allegedly aided in ousting Ukrainian forces from the Kursk region of Russia, are preparing to enter Ukrainian territory. A Ukrainian official suggests Russia might deploy North Korean soldiers in occupied regions of Ukraine, framing it as protecting 'Russian land'. This potential deployment could be a strategic move to secure increased support from Russia for North Korea's nuclear program, raising significant concerns about the escalation of the conflict and the deepening military cooperation between Russia and North Korea.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417155000704",
@@ -24,10 +68,10 @@
     },
     {
       "originalTitle": "[북한단신] 조총련, 김일성 생일 113주년 경축 중앙대회 개최",
-      "translatedTitle": "[North Korea Briefs] Chongryon Holds Central Meeting Celebrating Kim Il-sung's 113th Birthday",
+      "translatedTitle": "[North Korea Briefs] Chongryon Holds Central Meeting to Celebrate Kim Il-sung's 113th Birthday",
       "summary": {
-        "quote": "The Central Meeting of the General Association of Korean Residents in Japan (Chongryon) celebrating the 113th birthday of Chairman Kim Il-sung was held on the 13th at the Chongryon Central Hall in Japan",
-        "text": "The General Association of Korean Residents in Japan (Chongryon) held a central meeting to celebrate the 113th birthday of Kim Il-sung. Separately, Johnny Hon, co-chairman of the Kim Il-sung Kim Jong-il Foundation, and his delegation returned home on the 16th, greeted by Kang No-eul, chairman of the foundation, at Pyongyang International Airport. These brief items highlight internal events and personnel exchanges, reflecting ongoing activities and ties within North Korean-affiliated organizations.",
+        "quote": "The Central Meeting of the General Association of Korean Residents in Japan (Chongryon) celebrating the 113th anniversary of the birth of Kim Il-sung was held at the Chongryon Central Hall on the 13th.",
+        "text": "The General Association of Korean Residents in Japan (Chongryon) held a central meeting in Tokyo to commemorate the 113th anniversary of Kim Il-sung's birth. The event highlighted the ongoing ideological commitment of Chongryon to the Kim dynasty. Also, the Kim Il-sung Kim Jong-il Foundation delegation recently visited Pyongyang. The visit could be related to fundraising efforts or discussions about future projects.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417149300504",
@@ -35,21 +79,21 @@
     },
     {
       "originalTitle": "[르포] '북한이 코 앞'…동해 최북단 저도어장, 올해도 문 열다",
-      "translatedTitle": "[Report] 'North Korea is Just Around the Corner'…Jeodo Fishing Ground, the Northernmost in the East Sea, Opens Again This Year",
+      "translatedTitle": "[Report] 'North Korea is Right in Front of You'... Jodo Fishing Ground, the Northernmost Part of the East Sea, Opens Again This Year",
       "summary": {
-        "quote": "With dreams of a full haul, we set sail",
-        "text": "The Jeodo fishing ground, located close to the Northern Limit Line (NLL), has opened for the season, with fishermen from Goseong eagerly anticipating the opportunity to fish in this rich area known for various species, including octopus, crab, and seaweed. The fishing ground's proximity to North Korea, only 1.8km from the NLL, creates tension and potential for closures during periods of heightened inter-Korean relations, as seen when North Korea destroyed sections of the inter-Korean road last October, thus creating heightened tensions. This article provides valuable context about how geopolitical events can affect local communities.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
+        "quote": "\"We are leaving with dreams of a full catch.\"",
+        "text": "The Jodo fishing ground, located in the East Sea just 1.8km from the Northern Limit Line (NLL), has opened for the season, offering fishermen access to a rich fishing area. The area, known for abundant catches of octopus, crab, and seaweed, is a source of economic activity in the region, though subject to closures during periods of heightened inter-Korean tensions. Last year, the fishing ground recorded an impressive haul, generating significant revenue for local fishermen. The governor visited to encourage fishermen and conduct safety checks.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417120500062",
       "date": "Thu, 17 Apr 2025 15:20:58 +0900"
     },
     {
       "originalTitle": "\"북러 잇는 두만강 '자동차 다리' 신설 준비 분주\"",
-      "translatedTitle": "Busy Preparations for a New 'Automobile Bridge' over the Tumen River Connecting North Korea and Russia",
+      "translatedTitle": "Busy Preparations for New 'Automobile Bridge' Across the Tumen River Linking North Korea and Russia",
       "summary": {
-        "quote": "North Korea and Russia are speeding up preparations for the construction of a Tumen River automobile bridge, which was agreed upon at a summit in June of last year",
-        "text": "North Korea and Russia are progressing with the construction of a new automobile bridge across the Tumen River, agreed upon at a summit last year. Satellite imagery indicates land clearing, terrain leveling, and the addition of a concrete production facility on the North Korean side. While a temporary bridge was installed for construction purposes, rising river levels led to its removal, revealing some of the challenges facing this project, which aims to enhance economic cooperation between the two nations.",
+        "quote": "Preparations are underway for the construction of an automobile bridge across the Tumen River, agreed upon at the summit between North Korea and Russia in June last year.",
+        "text": "Satellite imagery indicates progress in the construction preparations for a new automobile bridge across the Tumen River, connecting North Korea and Russia, agreed upon at last year's summit. While temporary bridges for construction have faced setbacks due to rising river levels, land clearing and concrete production facilities are being established on both sides. The completion of this bridge, which is expected to facilitate increased trade and economic cooperation between the two nations, is likely to have political implications.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417059100009",
@@ -57,10 +101,10 @@
     },
     {
       "originalTitle": "\"北, 우크라 본토 파병 계획\" 주장…전쟁개입 확대되나",
-      "translatedTitle": "Claims of 'North Korea Planning to Deploy Troops to Mainland Ukraine'...Will War Involvement Expand?",
+      "translatedTitle": "Claim: North Korea Planning to Deploy Troops to Ukrainian Mainland... Will War Intervention Expand?",
       "summary": {
-        "quote": "Russia plans to use North Korean troops in the war on Ukrainian territory",
-        "text": "Claims are emerging that North Korean troops, previously involved in operations in Russia's Kursk region, are preparing to enter mainland Ukraine. A Ukrainian official alleges that Russia may claim occupied territories where North Korean troops are deployed as 'Russian land', potentially to legitimize their presence under Russian law. Edward Howell from Oxford University suggests this deployment signals Kim Jong-un's willingness to provide manpower in exchange for advanced missile and military technology from Russia, signifying an escalation of North Korean involvement in the conflict.",
+        "quote": "The head of the Center for Countering Disinformation under the National Security and Defense Council of Ukraine claimed that Russia plans to use North Korean troops in the war on Ukrainian territory.",
+        "text": "Further to previous claims, there are suggestions that North Korean troops, having potentially assisted in operations in the Kursk region, might be deployed within occupied regions of Ukraine. It is also suggested that they may wear Russian uniforms. The potential deployment could provide NK with increased support from Russia for its nuclear program. This development represents a significant escalation in North Korea's involvement in the conflict, raising serious concerns about the humanitarian implications and the broader geopolitical landscape.",
         "interestLevel": "⭐️⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417066500009",
@@ -68,10 +112,10 @@
     },
     {
       "originalTitle": "올해 1분기 탈북민 38명 입국…20·30대가 절반 이상",
-      "translatedTitle": "38 North Korean Defectors Entered South Korea in the First Quarter of This Year…More Than Half are in Their 20s and 30s",
+      "translatedTitle": "38 North Korean Defectors Entered South Korea in the First Quarter of This Year... More Than Half Were in Their 20s and 30s",
       "summary": {
-        "quote": "The number of North Korean defectors who entered South Korea in the first quarter of this year was 38",
-        "text": "In the first quarter of this year, 38 North Korean defectors entered South Korea, with the majority being women and over half being in their 20s and 30s. These defectors had typically left North Korea before the border closures due to COVID-19 and had spent over five years in third countries before arriving in South Korea. This highlights the ongoing trend of younger North Koreans seeking refuge and opportunity in the South and could be connected to women and gender studies",
+        "quote": "In the first quarter of this year, 38 North Korean defectors entered South Korea.",
+        "text": "A total of 38 North Korean defectors, predominantly women in their 20s and 30s, have arrived in South Korea during the first quarter of this year, bringing the cumulative number to 34,352. These recent arrivals had generally defected before the COVID-19 border closures and spent over five years in third countries before resettling in South Korea. The sustained high proportion of young adults among defectors highlights the demographic trends of those seeking refuge and opportunity in the South and the situation inside north korea.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417070800504",
@@ -79,10 +123,10 @@
     },
     {
       "originalTitle": "김진태 강원지사 \"북한 도발에 호락호락한 모습 보이지 않겠다\"",
-      "translatedTitle": "Gangwon Governor Kim Jin-tae: 'We Will Not Show a Weak Stance Towards North Korean Provocations'",
+      "translatedTitle": "Gangwon Governor Kim Jin-tae: \"We Will Not Show a Weak Stance Against North Korean Provocations\"",
       "summary": {
-        "quote": "We must respond decisively to provocations",
-        "text": "Following a recent incident where North Korean soldiers crossed the Military Demarcation Line (MDL) in the Gangwon province, Governor Kim Jin-tae has called for a strong response to any further provocations. He emphasized the need to avoid appearing weak and stated that the province held an emergency security meeting to request a robust response from the military. The Governor's visit to the Jeodo fishing ground also aimed to reassure fishermen amidst heightened tensions and could be useful in future research about the effects of military tensions on the North/South korean border.",
+        "quote": "Gangwon Governor Kim Jin-tae stated, 'There has been a recent provocation from the North Korean side on the eastern front,' and emphasized, 'We must respond firmly to provocations.'",
+        "text": "Following recent North Korean military incursions south of the Military Demarcation Line (MDL) in Gangwon Province, Governor Kim Jin-tae has requested a strong response to any further provocations. He emphasized the need to avoid appearing weak and stated that the province has requested the military to respond forcefully to future incidents. Kim's visit to the Jodo fishing ground and safety check shows his engagement.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417065200062",
@@ -90,10 +134,10 @@
     },
     {
       "originalTitle": "한미일 해군 수뇌 3자 화상회의…\"북한 도발 억제 공조\"",
-      "translatedTitle": "Trilateral Video Conference of ROK, US, and Japan Naval Chiefs…'Cooperation to Deter North Korean Provocations'",
+      "translatedTitle": "Trilateral Video Conference of ROK, US, and Japan Navy Chiefs... \"Cooperation to Deter North Korean Provocations\"",
       "summary": {
-        "quote": "Close communication and efforts between the ROK and US navies and the Japanese Maritime Self-Defense Force must continue in preparation for North Korea's nuclear and missile threats",
-        "text": "The naval chiefs of South Korea, the United States, and Japan held a trilateral video conference to discuss enhancing cooperation and coordination to deter North Korean nuclear and missile threats and prepare for potential maritime provocations. Admiral Yang Yong-mo emphasized the importance of continued communication and joint efforts to effectively deter and respond to North Korean provocations and strengthen maritime security capabilities through continued cooperation. This meeting underscores the united front against North Korean aggression and the emphasis on military readiness.",
+        "quote": "Chief of Naval Operations Admiral Yang Yong-mo held a trilateral video conference with Acting Chief of Naval Operations of the United States Navy, James Kilby, and Chief of Staff of the Japan Maritime Self-Defense Force, Admiral Saito Akira.",
+        "text": "The naval chiefs of South Korea, the United States, and Japan convened a trilateral video conference to discuss strengthening cooperation in deterring North Korean nuclear and missile threats. Admiral Yang emphasized the importance of close communication and coordination to effectively counter North Korean provocations and enhance maritime security capabilities. The continued implementation of joint maritime exercises, such as 'Freedom Edge', reflects the commitment to trilateral collaboration in addressing regional security concerns and maintaining stability.",
         "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417063200504",
@@ -101,10 +145,10 @@
     },
     {
       "originalTitle": "[북한날씨] 전 지역 대체로 흐림",
-      "translatedTitle": "[North Korean Weather] Mostly Cloudy Throughout the Region",
+      "translatedTitle": "[North Korea Weather] Mostly Cloudy Across All Regions",
       "summary": {
-        "quote": "North Korea will be mostly cloudy throughout the region on the 17th",
-        "text": "The Korean Meteorological Administration forecasts that North Korea will experience mostly cloudy weather across all regions on the specified day. There will be occasional rain in Pyongan South Province, Hamgyong South Province, and Hwanghae Province in the morning, and in Pyongan North Province in the afternoon. While providing a basic weather update, this information has limited relevance.",
+        "quote": "North Korea will be mostly cloudy across all regions [today], according to the Korea Meteorological Administration.",
+        "text": "The weather forecast for North Korea indicates generally cloudy conditions across the country. While this is not of direct interest to modern Korean history, large scale climate patterns that cause widespread droughts could impact migration patterns within the DPRK.",
         "interestLevel": "⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417013600504",
@@ -112,10 +156,10 @@
     },
     {
       "originalTitle": "北, 이스라엘 가자지구 공격 재개에 \"영토 강탈 야망\" 비난",
-      "translatedTitle": "North Korea Criticizes Israel's Resumption of Gaza Ground Attacks, Calling it an 'Ambition to Seize Territory'",
+      "translatedTitle": "North Korea Criticizes Israel's Resumption of Attacks in Gaza Strip, Calling It an \"Ambition to Plunder Territory\"",
       "summary": {
-        "quote": "Israel is further exposing its attempts to advance toward territorial annexation",
-        "text": "North Korea has condemned Israel's resumption of ground attacks in Gaza, accusing it of pursuing an 'ambition to seize territory' and attempting to 'completely occupy' Palestine. The criticism extends to the United States, which North Korea claims is complicit in Israel's actions, suggesting that the US intends for Israel to hand over the region once the conflict ends. This statement aligns with North Korea's pattern of criticizing US foreign policy and can be an interesting area of study.",
+        "quote": "North Korea criticized Israel's resumption of ground attacks in the Gaza Strip, stating that it is 'further exposing its ambition to annex territory'.",
+        "text": "North Korea has condemned Israel's renewed attacks on Gaza, accusing it of territorial ambitions and criticizing the United States' involvement in the conflict. This aligns with North Korea's longstanding anti-imperialist stance and provides insight into its foreign policy rhetoric and perceptions of global power dynamics. While the condemnation of Israel is standard, any shifts or nuances could be indicative of changing geopolitical calculations.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417013400504",
@@ -123,21 +167,21 @@
     },
     {
       "originalTitle": "北, 美전략폭격기 한반도 전개 반발…\"강력한 힘으로 억제할 것\"",
-      "translatedTitle": "North Korea Responds to US Strategic Bomber Deployment on the Korean Peninsula…'We Will Deter with Powerful Force'",
+      "translatedTitle": "North Korea Responds to Deployment of US Strategic Bombers to the Korean Peninsula... \"Will Deter Aggressive Intentions with Powerful Force\"",
       "summary": {
-        "quote": "We will deter the United States' aggressive ambitions with a powerful force",
-        "text": "North Korea has reacted strongly to the United States' deployment of a B-1B strategic bomber over the Korean Peninsula for joint air drills, denouncing it as a 'blatant threat' to its national security and a 'serious provocation' that escalates military tensions in the region. The Ministry of National Defense warned that such actions could have severe negative consequences for the US's own security, indicating a determination to counter what it views as aggressive military posturing. It's a useful example of the rhetoric used during military exercises.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
+        "quote": "North Korea has reacted strongly to the deployment of a US B-1B strategic bomber over the Korean Peninsula for joint air drills, vowing to 'deter the aggressive intentions of the US with powerful force'.",
+        "text": "North Korea has condemned the deployment of a US B-1B strategic bomber for joint military exercises with South Korea, denouncing it as a 'grave military provocation' and a threat to its security. The statement underscores North Korea's sensitivity to US military presence in the region and its willingness to escalate tensions in response. The mention of the United States solidifies the long-standing opposition. Further observation of these messages may reveal a shift in DPRK's messaging strategy.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250417011000504",
       "date": "Thu, 17 Apr 2025 06:23:52 +0900"
     },
     {
       "originalTitle": "[북한단신] 평안남도에 학교·유치원 90여개 신축·개축",
-      "translatedTitle": "[North Korea Briefs] Over 90 Schools and Kindergartens Newly Built/Renovated in South Pyongan Province",
+      "translatedTitle": "[North Korea Briefs] Approximately 90 New or Renovated Schools and Kindergartens in South Pyongan Province",
       "summary": {
-        "quote": "A project is underway to newly construct or renovate a total of over 90 schools, branch schools, and kindergartens in Pyongsong City, Daedong County, Mundok County, Sukchon County, etc., in South Pyongan Province",
-        "text": "North Korea is undertaking construction and renovation projects for over 90 schools and kindergartens in South Pyongan Province. Additionally, Mun Chol, Chairman of the Central Committee of the Socialist Patriotic Youth League, met with Anton Demidov, Chairman of the Coordinating Council of the Young Guard of United Russia, to discuss strengthening cooperation. The Chongryon Central Standing Committee expressed gratitude to Kim Jong-un for his educational support funds and scholarships.",
+        "quote": "Approximately 90 schools, branch schools, and kindergartens are being newly constructed or renovated in Pyongsong City, Daedong County, Mundok County, and Sukchon County in South Pyongan Province.",
+        "text": "North Korean state media reports the construction or renovation of approximately 90 schools and kindergartens in South Pyongan Province. Also, the chairman of the Kimilsungist-Kimjongilist Socialist Youth League met with a leader of the youth wing of Russia's United Russia party to discuss strengthening cooperation. Lastly, Chongryon's is showing their appreciation for Kim Jong Un's educational support.",
         "interestLevel": "⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416140200504",
@@ -145,10 +189,10 @@
     },
     {
       "originalTitle": "북방한계선과 불과 1.8㎞…동해안 최북단 황금어장 17일 개장",
-      "translatedTitle": "Only 1.8km from the Northern Limit Line…East Coast's Northernmost Golden Fishing Ground to Open on the 17th",
+      "translatedTitle": "Only 1.8km from the Northern Limit Line... The Northernmost Golden Fishing Ground in the East Sea to Open on the 17th",
       "summary": {
-        "quote": "Gangwon East Coast's Northernmost Jeodo Fishing Ground to Open",
-        "text": "The Jeodo fishing ground, located close to the Northern Limit Line (NLL) on the east coast of Gangwon Province, will open. The fishing ground is known for its abundant catches of octopus, crab, sea cucumber, and seaweed. Due to its proximity to North Korea, only 1.8km from the NLL, it is subject to closure during periods of heightened inter-Korean tensions. This emphasizes the precarious nature of life and work near the DMZ.",
+        "quote": "The northernmost Jodo fishing ground in the East Sea will open.",
+        "text": "The Jodo fishing ground, located in the East Sea just 1.8 kilometers from the Northern Limit Line (NLL), is set to open, offering access to a valuable fishing area. The fishing ground is located in proximity to North Korea. The area's vulnerability is further highlighted by it's proximity to the NLL.",
         "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416136200062",
@@ -156,69 +200,25 @@
     },
     {
       "originalTitle": "강원 DMZ 평화의 길 힐링의 문 열린다…접경지역 5개 코스 개방(종합)",
-      "translatedTitle": "Gangwon DMZ Peace Trail, a Gate to Healing, Opens…5 Border Area Courses Open (Comprehensive)",
+      "translatedTitle": "Gangwon DMZ Peace Trail Healing Door Opens... 5 Border Area Courses Open (Comprehensive)",
       "summary": {
-        "quote": "Gangwon DMZ Peace Trail, a Gate to Healing, Opens",
-        "text": "Gangwon Province is opening five 'DMZ Peace Trail' theme routes in border areas from April 18th to November 30th. These trails utilize the ecological, cultural, and historical resources of the DMZ and areas north of the Civilian Control Line to offer experiences centered on freedom, security, and peace. The program allows visitors to get a sense of what life is like near the DMZ and its potential for tourist activity.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "The northernmost demilitarized zone (DMZ) Peace Trail in the Gangwon Civilian Control Zone (CCZ) is opening its healing door.",
+        "text": "Gangwon Province is opening five 'DMZ Peace Trail Theme Route' courses in border regions to the public, showcasing the area's ecological and historical significance while promoting peace and security. The opening of these trails, which traverse sensitive border areas, represents a shift towards greater public access and engagement with the DMZ. Considering North Korean and South Korean relations, this may be interesting for researchers.",
+        "interestLevel": "⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416076051062",
       "date": "Wed, 16 Apr 2025 15:04:07 +0900"
     },
     {
       "originalTitle": "국회서 25일 판문점선언 7주년 기념식 개최…文 기념사",
-      "translatedTitle": "Commemoration Ceremony for the 7th Anniversary of the Panmunjom Declaration to be Held at the National Assembly on the 25th…Former President Moon Jae-in to Deliver Commemorative Address",
+      "translatedTitle": "Commemorative Ceremony for the 7th Anniversary of the Panmunjom Declaration to Be Held at the National Assembly on the 25th... Former President Moon to Deliver Commemorative Address",
       "summary": {
-        "quote": "Former President Moon Jae-in to Deliver Commemorative Address",
-        "text": "A commemoration ceremony for the 7th anniversary of the 4.27 Panmunjom Declaration will be held at the National Assembly Library on April 25th, co-hosted by Forum Saesaje, the Kim Dae-jung Foundation, the Roh Moo-hyun Foundation, and the Korean Peninsula Peace Forum. Former President Moon Jae-in will deliver a commemorative address at the event. Such reunions of previous presidents indicate potential areas of research concerning political organizations and movements.",
-        "interestLevel": "⭐️⭐️"
+        "quote": "Forum Saeijae, comprised of figures from the Moon Jae-in administration, will hold a commemorative ceremony for the 7th anniversary of the 4·27 Panmunjom Declaration on the 25th at the National Assembly Library, together with the Kim Dae-jung Foundation, the Roh Moo-hyun Foundation, and the Korean Peninsula Peace Forum.",
+        "text": "A commemorative event marking the 7th anniversary of the Panmunjom Declaration will be held in the National Assembly, featuring a commemorative address by former President Moon Jae-in. This event, organized by figures from the Moon administration, will provide a platform to reflect on the declaration's legacy and likely critique the current government's approach to inter-Korean relations.",
+        "interestLevel": "⭐️⭐️⭐️⭐️"
       },
       "url": "https://www.yna.co.kr/view/AKR20250416104200001",
       "date": "Wed, 16 Apr 2025 14:34:48 +0900"
-    },
-    {
-      "originalTitle": "강원 DMZ 평화의 길 힐링의 문 열린다…접경지역 5개 코스 개방",
-      "translatedTitle": "Gangwon DMZ Peace Trail, a Gate to Healing, Opens…5 Border Area Courses Open",
-      "summary": {
-        "quote": "Gangwon DMZ Peace Trail, a Gate to Healing, Opens",
-        "text": "Gangwon Province is opening five 'DMZ Peace Trail' theme routes in border areas from April 18th to November 30th. The program allows visitors to get a sense of what life is like near the DMZ and its potential for tourist activity.",
-        "interestLevel": "⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250416076000062",
-      "date": "Wed, 16 Apr 2025 11:26:36 +0900"
-    },
-    {
-      "originalTitle": "\"핵실험뒤 폭발사고라 하면 은폐 가능\"…핵무장 찬성 학자 주장",
-      "translatedTitle": "'Concealment Possible by Calling it an Explosion Accident After a Nuclear Test'...Claim by Scholar Advocating for Nuclear Armament",
-      "summary": {
-        "quote": "And if a small-scale artificial earthquake occurs due to a nuclear test, the fact of the nuclear test can be concealed by announcing that an explosion accident occurred in an underground bomb storage facility in the forward area",
-        "text": "A South Korean scholar advocating for the country's nuclear armament suggests that a nuclear test could be disguised as an explosion accident in a forward area, even proposing creating nuclear test tunnels in mountains near the DMZ. While the scholar acknowledges the difficulty in finding a suitable test site, he believes it is possible to conceal the event through deception, a notion that has faced criticism for being irresponsible given South Korea's standing and the technical challenges of concealing nuclear tests. The proposal might be useful if combined with a study of how nuclear accidents are portrayed in DPRK state media, but the claim that they could simply lie about it is quite concerning.",
-        "interestLevel": "⭐️⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250416043800504",
-      "date": "Wed, 16 Apr 2025 10:34:47 +0900"
-    },
-    {
-      "originalTitle": "北화성지구 3단계 준공…김정은 \"현대적 살림집 이제야 안겨 미안\"(종합)",
-      "translatedTitle": "North Korea Celebrates the Completion of the 3rd Phase of the Hwaseong District…Kim Jong-un: 'Sorry for Only Now Providing Such Modern Homes' (Comprehensive)",
-      "summary": {
-        "quote": "I am sorry for only now providing such modern homes, and seeing the faces of citizens overflowing with emotion and joy today, I am even more determined to take on more work for the people",
-        "text": "Kim Jong-un attended the completion ceremony of the third phase of the Hwaseong District, a new residential area in Pyongyang, emphasizing his focus on improving people's lives. He expressed regret that such modern housing was only being provided now and pledged to do more for the people. This highlights a continued focus on domestic projects and improving living standards in Pyongyang, which is a privileged and visible area of the DPRK.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250416010751504",
-      "date": "Wed, 16 Apr 2025 10:16:23 +0900"
-    },
-    {
-      "originalTitle": "김정은, 태양절 금수산궁전 참배 3년째 불참…간부만 찾아",
-      "translatedTitle": "Kim Jong-un Absent from Kumsusan Palace of the Sun on the Day of the Sun for the 3rd Year…Only Senior Officials Visit",
-      "summary": {
-        "quote": "Kim Jong-un Absent from Kumsusan Palace of the Sun on the Day of the Sun for the 3rd Year",
-        "text": "Kim Jong-un did not visit the Kumsusan Palace of the Sun, where the body of Kim Il-sung is enshrined, on the 113th anniversary of Kim Il-sung's birth. While senior officials from the party and government visited, Kim's absence marks the third consecutive year he has not attended the annual event, signaling a potential shift in emphasis away from idolizing past leaders and toward establishing his own authority.",
-        "interestLevel": "⭐️⭐️⭐️"
-      },
-      "url": "https://www.yna.co.kr/view/AKR20250416017600504",
-      "date": "Wed, 16 Apr 2025 07:47:28 +0900"
     }
   ]
 }
